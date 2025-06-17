@@ -1,0 +1,4608 @@
+[
+  {
+    "source": "Reddit",
+    "thread_id": "1koswp6",
+    "url": "https://reddit.com/r/joplinapp/comments/1koswp6/why_do_you_use_joplin_over_obsidian/",
+    "title": "Why do you use Joplin over Obsidian",
+    "author": "Extra_Upstairs4075",
+    "created_at": "2025-05-17T13:23:22+00:00",
+    "main_topic": "Joplin vs Obsidian User Preferences",
+    "sentiment": "mixed",
+    "category": "discussion",
+    "pain_points": [
+      "Sync issues with Obsidian",
+      "Complexity of Obsidian",
+      "Performance issues on Android with Obsidian",
+      "Filename restrictions in Joplin",
+      "Lack of native encryption at rest in Joplin"
+    ],
+    "feature_requests": [
+      "Improved UI for Joplin",
+      "Better sync options for Joplin",
+      "Enhanced encryption features in Joplin"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users discuss their preferences for Joplin over Obsidian, highlighting Joplin's simplicity and reliable sync capabilities. However, some users express frustration with Joplin's filename handling and seek improvements in its UI and encryption features.",
+    "tags": [
+      "sync",
+      "ui",
+      "performance",
+      "encryption",
+      "open_source"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1i6jcoo",
+    "url": "https://reddit.com/r/joplinapp/comments/1i6jcoo/should_i_use_joplin_or_obsidian/",
+    "title": "Should I use Joplin or Obsidian",
+    "author": "NateRCole",
+    "created_at": "2025-01-21T14:08:08+00:00",
+    "main_topic": "Comparison between Joplin and Obsidian",
+    "sentiment": "mixed",
+    "category": "discussion",
+    "pain_points": [
+      "Lack of mind map feature in Joplin",
+      "Difficulty syncing with multiple devices in Joplin",
+      "Limited hierarchical organization in Joplin",
+      "Confusion over plugin capabilities",
+      "Obsidian's sync reliability issues"
+    ],
+    "feature_requests": [
+      "Mind map feature",
+      "Infinite canvas",
+      "Improved note linking",
+      "Better integration with third-party cloud storage"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are debating whether to choose Joplin or Obsidian for note-taking, highlighting specific features and pain points. While some users prefer Joplin for its ease of use and syncing capabilities, others are drawn to Obsidian's mind mapping and organizational features. The discussion reveals a mix of satisfaction and frustration with both applications.",
+    "tags": [
+      "sync",
+      "features",
+      "mind map",
+      "cloud storage",
+      "organization"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1k6l6fc",
+    "url": "https://reddit.com/r/joplinapp/comments/1k6l6fc/joplin_vs_obsidian_why_joplin_is_a_winner/",
+    "title": "Joplin vs. Obsidian! Why Joplin is a Winner?",
+    "author": "444_Guy",
+    "created_at": "2025-04-24T06:08:32+00:00",
+    "main_topic": "Joplin vs. Obsidian Comparison",
+    "sentiment": "mixed",
+    "category": "discussion",
+    "pain_points": [
+      "Obsidian's E2EE is behind a paywall",
+      "Joplin's UI can be clunky",
+      "Syncing issues with Joplin when using Syncthing",
+      "Lack of native E2EE in Joplin's active directory",
+      "Obsidian's search functionality is poor without plugins"
+    ],
+    "feature_requests": [
+      "Improved note linking functionality in Joplin",
+      "Better UI/UX in Joplin",
+      "Native E2EE support for free version in Obsidian",
+      "Enhanced mobile app features in Joplin"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "Users are comparing Joplin and Obsidian, highlighting strengths and weaknesses of both apps. While Joplin is praised for its security and open-source nature, users express frustration with its UI and syncing capabilities. Obsidian is recognized for its advanced features but criticized for its paid E2EE and complex setup.",
+    "tags": [
+      "sync",
+      "ui",
+      "performance",
+      "security",
+      "open_source",
+      "features"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1ki3leg",
+    "url": "https://reddit.com/r/joplinapp/comments/1ki3leg/thats_it_i_quit/",
+    "title": "That's it, I quit.",
+    "author": "Zealousideal_Rub5826",
+    "created_at": "2025-05-08T22:49:10+00:00",
+    "main_topic": "Sync issues and data loss",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Data loss due to stale data overwriting new data",
+      "Lack of version control and undo functionality",
+      "Inconsistent syncing across devices",
+      "User frustration with sync intervals and reliability",
+      "Notes stored unencrypted on servers"
+    ],
+    "feature_requests": [
+      "Implement version control",
+      "Add undo functionality",
+      "Improve sync reliability",
+      "Lock interface during sync to prevent data loss"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant frustration with Joplin's syncing capabilities, leading to data loss and a lack of version control. Many users are considering switching to alternative note-taking apps due to these issues.",
+    "tags": [
+      "sync",
+      "data_loss",
+      "version_control",
+      "user_experience",
+      "performance"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1hs8j7p",
+    "url": "https://reddit.com/r/joplinapp/comments/1hs8j7p/year_of_joplin_2025/",
+    "title": "Year of Joplin 2025",
+    "author": "lethalox",
+    "created_at": "2025-01-02T23:58:41+00:00",
+    "main_topic": "User feedback on Joplin features",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Cannot pop-out notes into separate windows",
+      "Coloring text requires too many clicks",
+      "Long tag list with no multi-select option",
+      "Weak tagging functionality"
+    ],
+    "feature_requests": [
+      "Multi-window support",
+      "Improved tagging functionality with multi-select",
+      "Easier coloring of text",
+      "Hybrid import feature for colored text"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "Users are discussing their experiences with Joplin, highlighting specific pain points related to note management and tagging. They express a desire for improved features, particularly around multi-window support and tagging functionality.",
+    "tags": [
+      "ui",
+      "tagging",
+      "features",
+      "user_experience",
+      "markdown"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1krhtzq",
+    "url": "https://reddit.com/r/joplinapp/comments/1krhtzq/please_add_tree_view_for_notes/",
+    "title": "Please add tree view for notes",
+    "author": "Sadkn1ght",
+    "created_at": "2025-05-20T22:14:44+00:00",
+    "main_topic": "Tree view for notes",
+    "sentiment": "mixed",
+    "category": "feature_request",
+    "pain_points": [
+      "The current folder menu occupies too much space.",
+      "Difficulty navigating large and complex notes.",
+      "Limited functionality in the mobile app."
+    ],
+    "feature_requests": [
+      "Tree view for folders and notes similar to Obsidian.",
+      "Plugin for 'return to TOC' from each header."
+    ],
+    "priority": "medium",
+    "user_type": "mobile_user",
+    "summary": "Users are requesting a tree view feature for notes and folders in the Joplin app, similar to what is available in Obsidian. While some users are satisfied with existing plugins, others express frustration with the current navigation and folder structure, especially on mobile devices.",
+    "tags": [
+      "mobile",
+      "ui",
+      "navigation",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1hc96f7",
+    "url": "https://reddit.com/r/joplinapp/comments/1hc96f7/how_does_joplin_handle_large_amounts_of_data_150gb/",
+    "title": "How does Joplin handle large amounts of data 150gb+?",
+    "author": "CherryDiet",
+    "created_at": "2024-12-12T00:59:06+00:00",
+    "main_topic": "Handling large data in Joplin",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Concerns about app lagging or crashing with large data",
+      "Limitations of other note-taking apps like Obsidian",
+      "Need for local storage without relying on cloud services"
+    ],
+    "feature_requests": [
+      "Improved handling of large databases",
+      "Support for external links to local files",
+      "Potential for separate instances or databases"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "Users are discussing the capabilities of Joplin in managing large amounts of data, particularly over 150GB. They express concerns about performance issues and explore potential solutions, including using external links and separate databases. The conversation reflects a mix of technical insights and personal experiences with various note-taking applications.",
+    "tags": [
+      "performance",
+      "data_management",
+      "local_storage",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1kwxwya",
+    "url": "https://reddit.com/r/joplinapp/comments/1kwxwya/update_on_the_adwaita_theme_for_joplin/",
+    "title": "Update on the Adwaita theme for Joplin",
+    "author": "WideAdeptness6341",
+    "created_at": "2025-05-27T20:28:59+00:00",
+    "main_topic": "Adwaita theme for Joplin",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Default theme looks out of place on GNOME desktop"
+    ],
+    "feature_requests": [
+      "Light theme",
+      "Mobile theme support"
+    ],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "Users are providing positive feedback on the new Adwaita theme for Joplin, expressing a desire for a light version and mobile support. There is a general consensus that the default theme does not fit well within the GNOME ecosystem.",
+    "tags": [
+      "theme",
+      "ui",
+      "desktop",
+      "GNOME"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1i8rx77",
+    "url": "https://reddit.com/r/joplinapp/comments/1i8rx77/piece_of_appreciation/",
+    "title": "Piece of appreciation",
+    "author": "jj_ya",
+    "created_at": "2025-01-24T09:49:56+00:00",
+    "main_topic": "User appreciation for Joplin app",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Dealing with multiple screen divisions",
+      "Clunky big windows that hinder visibility"
+    ],
+    "feature_requests": [],
+    "priority": "low",
+    "user_type": "general",
+    "summary": "Users express appreciation for the Joplin note-taking app, highlighting its usefulness for university note-taking and the support from the open source community. They encourage donations to sustain the project and agree on the benefits of multi-window functionality.",
+    "tags": [
+      "note-taking",
+      "open-source",
+      "multi-window",
+      "university"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1l1wtts",
+    "url": "https://reddit.com/r/joplinapp/comments/1l1wtts/im_moving_36000_notes_in_200_notebooks_in_30/",
+    "title": "I'm moving 36,000+ notes in 200+ Notebooks in 30+ Stacks from Evernote. Is there anything I should be aware of?",
+    "author": "parkylondon",
+    "created_at": "2025-06-02T23:17:57+00:00",
+    "main_topic": "Migrating notes from Evernote to Joplin",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Concerns about note size and formatting limitations",
+      "Worries about system crash recovery",
+      "Long sync times during initial import",
+      "Replacing Feedly workflow"
+    ],
+    "feature_requests": [
+      "Faster sync options",
+      "Improved import process for large note collections"
+    ],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "Users are sharing their experiences migrating from Evernote to Joplin, highlighting both positive and negative aspects of the process. While some users report smooth transitions, others express concerns about sync times and specific workflows that need to be adapted.",
+    "tags": [
+      "sync",
+      "import",
+      "performance",
+      "workflow"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1il5dgz",
+    "url": "https://reddit.com/r/joplinapp/comments/1il5dgz/im_switching_to_joplin_from_evernote_and_am/",
+    "title": "im switching to Joplin from Evernote and am confused about HTML vs markdown",
+    "author": "Independant666",
+    "created_at": "2025-02-09T03:17:22+00:00",
+    "main_topic": "Importing notes from Evernote",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Confusion about HTML vs Markdown import options",
+      "Concern about losing text formatting (size and color)",
+      "Uncertainty about the functionality of the editor views"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "Users are discussing their experiences switching from Evernote to Joplin, particularly regarding the import process and editor functionalities. There is confusion about the differences between HTML and Markdown imports and how formatting is preserved in Joplin.",
+    "tags": [
+      "import",
+      "Evernote",
+      "Markdown",
+      "HTML",
+      "editor"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1jms28o",
+    "url": "https://reddit.com/r/joplinapp/comments/1jms28o/new_to_joplin_is_it_suitable_for_journaling/",
+    "title": "New to Joplin – Is it suitable for journaling?",
+    "author": "Zasoos",
+    "created_at": "2025-03-29T17:55:28+00:00",
+    "main_topic": "Joplin for journaling",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Concerns about data loss if devices are lost or Joplin is uninstalled",
+      "Uncertainty about Joplin's handling of Devanagari script"
+    ],
+    "feature_requests": [
+      "Plugins that enhance journaling experience",
+      "Improved font rendering for non-Latin scripts"
+    ],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "A new user is exploring Joplin for journaling and seeks guidance on its suitability, features, and reliability for data access. Responses indicate a generally positive experience with some concerns about data management and script support.",
+    "tags": [
+      "journaling",
+      "sync",
+      "plugins",
+      "data management",
+      "Devanagari"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1jrcpf1",
+    "url": "https://reddit.com/r/joplinapp/comments/1jrcpf1/gnome_adwaita_theme_for_joplin/",
+    "title": "GNOME Adwaita theme for Joplin",
+    "author": "WideAdeptness6341",
+    "created_at": "2025-04-04T14:05:44+00:00",
+    "main_topic": "GNOME Adwaita theme for Joplin",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [],
+    "feature_requests": [
+      "Code block display line numbers"
+    ],
+    "priority": "medium",
+    "user_type": "developer",
+    "summary": "A user is developing a custom theme for Joplin to better integrate with the GNOME ecosystem and is seeking feedback. Other users express support and provide suggestions for improving the theme.",
+    "tags": [
+      "theme",
+      "GNOME",
+      "UI",
+      "customization"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1ivg11o",
+    "url": "https://reddit.com/r/joplinapp/comments/1ivg11o/is_joplin_local_fully_or_are_there_some_caveats/",
+    "title": "Is Joplin local fully or are there some caveats?",
+    "author": "Wide-Struggle-8788",
+    "created_at": "2025-02-22T10:39:15+00:00",
+    "main_topic": "Local data storage concerns",
+    "sentiment": "neutral",
+    "category": "question",
+    "pain_points": [
+      "Concerns about data privacy with web clipper",
+      "Uncertainty about local vs cloud sync options",
+      "Spell-checking data potentially sent to Google"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "Users are inquiring about the local storage capabilities of Joplin and the implications of using the web clipper extension. There are concerns regarding data privacy and the potential for data to be sent to external servers.",
+    "tags": [
+      "local",
+      "sync",
+      "web clipper",
+      "privacy",
+      "data storage"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1kq63h4",
+    "url": "https://reddit.com/r/joplinapp/comments/1kq63h4/im_new/",
+    "title": "I'm new",
+    "author": "Greedy_Study_3116",
+    "created_at": "2025-05-19T07:52:35+00:00",
+    "main_topic": "New user seeking Joplin templates",
+    "sentiment": "neutral",
+    "category": "question",
+    "pain_points": [
+      "Unfamiliarity with Joplin and its plugins",
+      "Lack of mobile support for template plugin"
+    ],
+    "feature_requests": [
+      "Joplin templates",
+      "Improved mobile support for plugins"
+    ],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "A new user is seeking advice on using Joplin, particularly regarding templates and plugins. While some users provide suggestions, there is a noted limitation with mobile support for certain features.",
+    "tags": [
+      "templates",
+      "plugins",
+      "mobile",
+      "sync"
+    ]
+  },
+  {
+    "source": "Reddit",
+    "thread_id": "1jyxbln",
+    "url": "https://reddit.com/r/joplinapp/comments/1jyxbln/android_firefox/",
+    "title": "Android Firefox?",
+    "author": "robroy90",
+    "created_at": "2025-04-14T12:12:24+00:00",
+    "main_topic": "Joplin Web Clipper on Firefox Mobile",
+    "sentiment": "negative",
+    "category": "support",
+    "pain_points": [
+      "Web Clipper feature not supported on mobile Firefox",
+      "Add-on greyed-out on mobile",
+      "Inconsistent performance of Markdownr"
+    ],
+    "feature_requests": [
+      "Support for Web Clipper on Firefox Mobile",
+      "Improved functionality of Markdownr"
+    ],
+    "priority": "high",
+    "user_type": "new_user",
+    "summary": "Users are experiencing issues with the Joplin Web Clipper not functioning on Firefox for Android, leading to frustration. There is confusion about the compatibility of the add-on and requests for better support and features.",
+    "tags": [
+      "mobile",
+      "web_clipper",
+      "add-ons",
+      "support"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "278123397",
+    "url": "https://github.com/laurent22/joplin/issues/15",
+    "title": "F-Droid",
+    "author": "testman42",
+    "created_at": "2017-11-30T13:40:54+00:00",
+    "main_topic": "Joplin F-Droid Inclusion",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Dependency on Google Mobile Services (GMS)",
+      "Lack of automatic updates on F-Droid",
+      "Size of APKs exceeding limits for some repositories",
+      "Confusion over app versions and signatures"
+    ],
+    "feature_requests": [
+      "Separate APKs for different architectures",
+      "Build without GMS or Firebase dependencies",
+      "Automatic update notifications within the app",
+      "FOSS version of the app without proprietary components"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are discussing the inclusion of Joplin in F-Droid, expressing concerns over its dependencies on Google services and the challenges of maintaining updates. There are requests for features that would enhance usability and privacy, particularly for users avoiding Google products.",
+    "tags": [
+      "mobile",
+      "sync",
+      "privacy",
+      "updates",
+      "F-Droid"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "311123154",
+    "url": "https://github.com/laurent22/joplin/issues/375",
+    "title": "[Feature request] Hierarchical tags",
+    "author": "ghost",
+    "created_at": "2018-04-04T07:58:00+00:00",
+    "main_topic": "Hierarchical tags feature request",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [
+      "Difficulty organizing notes with flat tag structure",
+      "Inability to manage large number of tags effectively",
+      "Frustration with current notebook system being too rigid",
+      "Performance issues with existing tag management"
+    ],
+    "feature_requests": [
+      "Hierarchical tags",
+      "Dynamic notebooks based on tag filters",
+      "Improved search functionality for tags",
+      "Batch tagging from search results",
+      "Customizable tag separators for hierarchy"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are requesting the implementation of hierarchical tags in Joplin to improve organization and management of notes. Many users express frustration with the current flat tag structure and the limitations of notebooks, indicating that this feature is crucial for their workflow. The discussion highlights both technical challenges and user frustrations, suggesting a significant demand for this enhancement.",
+    "tags": [
+      "tags",
+      "organization",
+      "feature_request",
+      "performance",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "354126758",
+    "url": "https://github.com/laurent22/joplin/issues/738",
+    "title": "flatpak version",
+    "author": "DOCPROF",
+    "created_at": "2018-08-26T20:35:38+00:00",
+    "main_topic": "Flatpak version for Joplin",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [
+      "AppImage integration issues with desktop environments",
+      "Long installation times from AUR for Arch Linux users",
+      "Lack of automated updates for AppImage",
+      "External editor support issues with Flatpak"
+    ],
+    "feature_requests": [
+      "Official Flatpak version of Joplin",
+      "Snap package for Joplin",
+      "Apt repository for Debian users"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are requesting an official Flatpak version of Joplin due to integration issues with AppImage and long installation times. There is significant interest and support for this feature among the community, indicating it affects many users.",
+    "tags": [
+      "linux",
+      "flatpak",
+      "appimage",
+      "installation",
+      "integration",
+      "updates"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "827217249",
+    "url": "https://github.com/laurent22/joplin/issues/4649",
+    "title": "Doesn't work on Windows 32-bit",
+    "author": "michaldybczak",
+    "created_at": "2021-03-10T06:41:07+00:00",
+    "main_topic": "Joplin Windows 32-bit Issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Application does not launch properly on Windows 32-bit",
+      "Empty window with unresponsive UI",
+      "Installation issues without admin rights",
+      "Inability to uninstall or reinstall Joplin",
+      "Missing required files in the installation package"
+    ],
+    "feature_requests": [
+      "Improved multi-platform support",
+      "Fix for 32-bit Windows compatibility",
+      "Access to sync files without Joplin interface"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing significant issues with the Joplin note-taking app on Windows 32-bit systems, including failure to launch and missing files. Many users express frustration over the lack of support for older systems and the inability to access their notes. The thread highlights a need for urgent fixes and better compatibility.",
+    "tags": [
+      "windows",
+      "32-bit",
+      "bug",
+      "installation",
+      "compatibility"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "322639475",
+    "url": "https://github.com/laurent22/joplin/issues/520",
+    "title": "[Feature Request] save cursor position",
+    "author": "tessus",
+    "created_at": "2018-05-14T00:12:40+00:00",
+    "main_topic": "Save cursor position in notes",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Cursor position resets to the top when switching notes",
+      "Tedious scrolling back to the last cursor position",
+      "Cursor position not preserved between app closures",
+      "Inconsistent behavior when resizing windows or changing layouts"
+    ],
+    "feature_requests": [
+      "Option to save cursor position locally",
+      "Ability to sync cursor position across devices",
+      "Preference settings for cursor position on note open (top, bottom, last position)",
+      "Improved handling of cursor position during note switching"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are frustrated with the Joplin app resetting the cursor position to the top of notes when switching between them, leading to tedious scrolling. They are requesting features to save and optionally sync the cursor position, as well as preference settings for how notes should open.",
+    "tags": [
+      "mobile",
+      "sync",
+      "ui",
+      "performance",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "730918105",
+    "url": "https://github.com/laurent22/joplin/issues/3991",
+    "title": "support for RTL languages",
+    "author": "majidasgari",
+    "created_at": "2020-10-27T22:43:05+00:00",
+    "main_topic": "Support for RTL languages",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Text layout not respected in RTL languages",
+      "Disoriented app layout on mobile with Arabic locale",
+      "Markdown editor and viewer issues with RTL support",
+      "Search functionality problems in Persian language"
+    ],
+    "feature_requests": [
+      "Full RTL support in text editors",
+      "Button for easy RTL text formatting",
+      "Improved layout for RTL languages in mobile and desktop apps"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are expressing significant frustration over the lack of proper RTL language support in the Joplin app, particularly in the text editor and viewer. Many users report layout issues and difficulties with text rendering, leading to a call for enhanced features and fixes.",
+    "tags": [
+      "rtl",
+      "text_editor",
+      "mobile",
+      "desktop",
+      "bug_report"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "972058517",
+    "url": "https://github.com/laurent22/joplin/issues/5321",
+    "title": "iOS app does not work with WebDAV plain HTTP",
+    "author": "Kommander78",
+    "created_at": "2021-08-16T20:03:21+00:00",
+    "main_topic": "iOS app WebDAV sync issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Network request failed error after updating to version 12.3.1",
+      "Inability to sync with WebDAV using DNS names",
+      "Issues with self-signed certificates",
+      "Local Network Permission not requested by the app",
+      "Dynamic IP addresses causing sync issues"
+    ],
+    "feature_requests": [
+      "Checkbox to ignore TLS errors",
+      "Resubmit previous app version for downgrade option"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant issues with syncing the Joplin iOS app to WebDAV servers after an update, particularly with DNS names and HTTP connections. Many users report that switching to IP addresses temporarily resolves the issue, but this is not a sustainable solution. The thread indicates widespread frustration and suggests potential feature requests to improve the situation.",
+    "tags": [
+      "mobile",
+      "sync",
+      "bug",
+      "WebDAV",
+      "network"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1236370493",
+    "url": "https://github.com/laurent22/joplin/issues/6517",
+    "title": "Sync silently ignores new files with old timestamps",
+    "author": "jacquesh",
+    "created_at": "2022-05-15T19:11:47+00:00",
+    "main_topic": "Sync issues with old timestamps",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "New files with old timestamps are ignored during sync",
+      "Partial syncs lead to missing notes",
+      "Manual intervention required to recover missing notes",
+      "Inconsistent behavior across devices",
+      "Frequent need to reset Joplin apps due to sync issues"
+    ],
+    "feature_requests": [
+      "Implement a method to check both creation and last-modified timestamps",
+      "Provide a UI option to reset sync timestamps",
+      "Allow for a full resync option",
+      "Improve handling of file sync conflicts"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant issues with Joplin's sync functionality, particularly when new files have older timestamps. This leads to frustration as notes can be missed during syncs, requiring manual recovery actions. The problem appears to affect multiple users, indicating a need for urgent fixes.",
+    "tags": [
+      "sync",
+      "bug",
+      "files",
+      "performance",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1912337266",
+    "url": "https://github.com/laurent22/joplin/issues/8960",
+    "title": "Cursor jumps to top of editor when typing",
+    "author": "211217613",
+    "created_at": "2023-09-25T21:53:23+00:00",
+    "main_topic": "Cursor jumps to top of editor when typing",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Cursor jumps to the beginning of the document while typing",
+      "Loss of text when cursor jumps",
+      "Issue persists across multiple versions",
+      "Difficulty in using the application for longer texts"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a frustrating bug where the cursor jumps to the top of the editor while typing, leading to lost text and making the application difficult to use. This issue has been reported by multiple users across different versions of the Joplin app, indicating a widespread problem.",
+    "tags": [
+      "bug",
+      "editor",
+      "sync",
+      "desktop",
+      "markdown",
+      "rich_text"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1535353471",
+    "url": "https://github.com/laurent22/joplin/issues/7629",
+    "title": "Mermaid Master Ticket (Improvements and Issues)",
+    "author": "jasonwilliams",
+    "created_at": "2023-01-16T18:43:30+00:00",
+    "main_topic": "Mermaid Integration Issues and Improvements",
+    "sentiment": "negative",
+    "category": "bug_report|discussion",
+    "pain_points": [
+      "Mindmaps not working",
+      "Dark theme support complications",
+      "Mermaid charts not rendering in preview or export",
+      "Mermaid version compatibility issues with Electron",
+      "Missing assets after updating Mermaid"
+    ],
+    "feature_requests": [
+      "Custom palette for dark theme",
+      "Support for additional graph types in Mermaid"
+    ],
+    "priority": "high",
+    "user_type": "developer|desktop_user",
+    "summary": "Users are experiencing significant issues with Mermaid integration in Joplin, particularly with mindmaps and rendering of charts. There are requests for improvements in dark theme support and additional graph types, indicating a high level of frustration among users, especially developers.",
+    "tags": [
+      "mermaid",
+      "dark_theme",
+      "charts",
+      "integration",
+      "electron"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2817483210",
+    "url": "https://github.com/laurent22/joplin/issues/11745",
+    "title": "2025-01-29 - Joplin Android extremely slow after deleting many conflicts",
+    "author": "CoffeeHT",
+    "created_at": "2025-01-29T07:54:55+00:00",
+    "main_topic": "Joplin Android performance issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Extreme slowness after deleting conflicts",
+      "Synchronization issues between Android and Windows apps",
+      "Error messages related to malformed MATCH expressions",
+      "CodeMirror errors in the Markdown editor",
+      "Inconsistent data and delays in updates"
+    ],
+    "feature_requests": [
+      "Improved handling of synchronization errors",
+      "Better logging for file not found errors",
+      "Options to manage and delete data in Joplin Cloud more effectively"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant performance issues with the Joplin Android app after attempting to delete a large number of conflict entries. The app has become extremely slow, with synchronization problems and various error messages. Users are frustrated with the lack of effective solutions and are exploring workarounds.",
+    "tags": [
+      "mobile",
+      "sync",
+      "performance",
+      "bug",
+      "error"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "684200825",
+    "url": "https://github.com/laurent22/joplin/issues/3659",
+    "title": "Horizontal split",
+    "author": "jtagcat",
+    "created_at": "2020-08-23T15:10:47+00:00",
+    "main_topic": "Horizontal split layout request",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [
+      "Vertical split layout is not suitable for vertical monitors",
+      "Lack of automatic layout switching between horizontal and vertical monitors",
+      "Toggling layout to only editor is broken",
+      "Difficulty in adding contents to new sections"
+    ],
+    "feature_requests": [
+      "Horizontal split layout option",
+      "Automatic layout switching based on monitor orientation",
+      "Configurable layout for editor and viewer positions",
+      "Ability to split main field into three sections"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are requesting a horizontal split layout for the Joplin app to better accommodate vertical monitors. There is significant interest in features that allow for automatic layout adjustments based on screen orientation, as well as improved functionality for toggling between editor and viewer modes.",
+    "tags": [
+      "ui",
+      "feature_request",
+      "layout",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2204308540",
+    "url": "https://github.com/laurent22/joplin/issues/10195",
+    "title": "Last position in note not remembered in Desktop apps since 2.13.15",
+    "author": "benftrex",
+    "created_at": "2024-03-24T11:39:22+00:00",
+    "main_topic": "Last position in note not remembered",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Position in notes not remembered when switching between notes",
+      "Users forced to scroll back to previous position manually",
+      "Bug affects usability for long notes",
+      "Issue persists across multiple versions and platforms"
+    ],
+    "feature_requests": [
+      "Option to toggle the behavior of remembering scroll position",
+      "Fix for the bug in editor mode",
+      "Improvement in note navigation experience"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a significant bug in the Joplin app where the last position in notes is not remembered when switching between notes. This issue has been reported across multiple versions and platforms, leading to frustration among users, especially those working with long notes.",
+    "tags": [
+      "desktop",
+      "bug",
+      "navigation",
+      "usability",
+      "editor"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2190765553",
+    "url": "https://github.com/laurent22/joplin/issues/10144",
+    "title": "Sync fails with \"Trust anchor for certification path not found\" on Android when using Joplin Server",
+    "author": "mu88",
+    "created_at": "2024-03-17T17:04:11+00:00",
+    "main_topic": "Sync fails on Android with Joplin Server",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Sync fails with 'Trust anchor for certification path not found'",
+      "Certificate errors persist even with 'Ignore TLS Certificate Error' enabled",
+      "Custom CA certificate installation does not resolve the issue for some users",
+      "Sync works on other platforms but not on Android"
+    ],
+    "feature_requests": [
+      "Option to provide custom CA certificate for certificate validation"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing sync failures on Android devices when connecting to a self-hosted Joplin Server, primarily due to TLS certificate issues. Despite attempts to bypass these errors, many users report ongoing problems, indicating a significant frustration level and a need for resolution.",
+    "tags": [
+      "mobile",
+      "sync",
+      "TLS",
+      "certificate",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1182460951",
+    "url": "https://github.com/laurent22/joplin/issues/6330",
+    "title": "White Splash on Startup",
+    "author": "elmodor",
+    "created_at": "2022-03-27T09:26:33+00:00",
+    "main_topic": "White Splash on Startup",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "White splash screen on startup",
+      "White screen when switching between editor/preview",
+      "User frustration with the issue persisting across multiple versions"
+    ],
+    "feature_requests": [
+      "Implement a splash screen during startup",
+      "Load settings.json to apply theme color immediately",
+      "Set initial CSS for background to match user theme"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a white splash screen on startup and during theme switching in the Joplin app. Despite multiple reports and suggestions for fixes, the issue remains unresolved, leading to significant user frustration.",
+    "tags": [
+      "ui",
+      "bug",
+      "performance",
+      "theme"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2330073283",
+    "url": "https://github.com/laurent22/joplin/issues/10533",
+    "title": "Joplin takes longer to start when clicking on app icon instead of tray icon",
+    "author": "Candelus",
+    "created_at": "2024-06-03T03:12:36+00:00",
+    "main_topic": "Slow startup from app icon",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Joplin takes longer to start when using the app icon compared to the tray icon",
+      "Users want to keep their tray clean but prefer using the app icon",
+      "Lack of a straightforward solution for non-technical users"
+    ],
+    "feature_requests": [
+      "Add a fast start feature from the app icon",
+      "Implement a run on Windows startup feature"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing slow startup times when launching Joplin from the app icon, preferring the faster response from the tray icon. There are requests for features to improve startup speed and to allow Joplin to run at Windows startup, indicating a significant level of frustration among users.",
+    "tags": [
+      "performance",
+      "startup",
+      "windows",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1304870212",
+    "url": "https://github.com/laurent22/joplin/issues/6669",
+    "title": "No notification/ alarm on joplin desktop (linux)",
+    "author": "marciado",
+    "created_at": "2022-07-14T14:29:08+00:00",
+    "main_topic": "No notification/alarm on Joplin desktop",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "No notifications for alarms set in the app",
+      "Issues with notification server configuration",
+      "Inconsistent behavior across different installations (AppImage vs AUR package)",
+      "Library version mismatch causing notification failures"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the notification system in the Joplin desktop app on Linux, specifically that alarms do not trigger notifications. There are indications of a library version mismatch causing these failures, and users are frustrated with the lack of resolution and inconsistent behavior across different installation methods.",
+    "tags": [
+      "notifications",
+      "linux",
+      "bug",
+      "desktop",
+      "AppImage",
+      "AUR"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2135421436",
+    "url": "https://github.com/laurent22/joplin/issues/9941",
+    "title": "crash when shutting down computer",
+    "author": "ghosttie",
+    "created_at": "2024-02-15T00:31:06+00:00",
+    "main_topic": "Crash when shutting down computer",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Frequent crashes during shutdown",
+      "Difficulty in generating crash logs",
+      "Lack of resolution for a long-standing issue",
+      "Pollution of home directory with crash dumps"
+    ],
+    "feature_requests": [
+      "Option to specify directory for crash dumps",
+      "Improved crash log generation process"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing crashes with the Joplin app when shutting down their computers, particularly on Windows. The issue has persisted for a long time without resolution, leading to frustration among users who are unable to generate crash logs or find a workaround.",
+    "tags": [
+      "windows",
+      "crash",
+      "bug",
+      "debugging",
+      "user_feedback"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2637152985",
+    "url": "https://github.com/laurent22/joplin/issues/11319",
+    "title": "Phrase search not working in Goto Anything",
+    "author": "nunesgh",
+    "created_at": "2024-11-06T06:22:39+00:00",
+    "main_topic": "Phrase search issue in Goto Anything",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Phrase search not returning expected results",
+      "Inconsistent behavior across different versions and platforms",
+      "Users unable to find notes using quotes in search",
+      "Need for workaround using underscores"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing significant issues with the phrase search functionality in the Goto Anything feature of the Joplin app. Despite following documentation, many report that searches with quotes yield no results, leading to frustration and confusion. The problem appears to affect multiple users across different versions and operating systems.",
+    "tags": [
+      "search",
+      "bug",
+      "ui",
+      "linux",
+      "macos"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2436446773",
+    "url": "https://github.com/laurent22/joplin/issues/10795",
+    "title": "Accessibility: Comply with WCAG 2.2",
+    "author": "personalizedrefrigerator",
+    "created_at": "2024-07-29T21:54:08+00:00",
+    "main_topic": "Accessibility: Comply with WCAG 2.2",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Accessibility focus visits nonfunctional buttons",
+      "Settings tabs missing information",
+      "Search result count announcements",
+      "Keyboard shortcuts can't be reassigned without a mouse",
+      "Difficulty in moving keyboard focus to certain buttons"
+    ],
+    "feature_requests": [
+      "Improve accessibility for mobile and desktop",
+      "Add better documentation for keyboard shortcuts",
+      "Implement ARIA landmarks for important regions",
+      "Enhance color contrast for various UI elements"
+    ],
+    "priority": "high",
+    "user_type": "developer",
+    "summary": "The thread discusses the ongoing efforts to improve Joplin's compliance with WCAG 2.2 accessibility standards. Users express satisfaction with the progress but highlight several pain points that need addressing, particularly around keyboard navigation and UI accessibility. The conversation includes technical suggestions and feature requests aimed at enhancing user experience for all users, especially those relying on assistive technologies.",
+    "tags": [
+      "accessibility",
+      "WCAG",
+      "desktop",
+      "mobile",
+      "ui",
+      "keyboard_navigation"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1688786063",
+    "url": "https://github.com/laurent22/joplin/issues/8096",
+    "title": "Android: Nearly minute-long solid gray screen before opening on fresh launch",
+    "author": "stevemagruder",
+    "created_at": "2023-04-28T15:53:27+00:00",
+    "main_topic": "App launch delay on Android",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Nearly minute-long solid gray screen before opening",
+      "App unresponsive during startup",
+      "Inconsistent launch times across different versions",
+      "Delay caused by loading plugin assets and master keys"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant delays when launching the Joplin app on Android, with a solid gray screen lasting up to a minute. Despite attempts to troubleshoot and optimize the app, the issue persists across multiple versions, leading to frustration among users.",
+    "tags": [
+      "mobile",
+      "performance",
+      "bug",
+      "sync"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1911558816",
+    "url": "https://github.com/laurent22/joplin/issues/8958",
+    "title": "Support auto-update",
+    "author": "personalizedrefrigerator",
+    "created_at": "2023-09-25T13:50:17+00:00",
+    "main_topic": "Support auto-update",
+    "sentiment": "neutral",
+    "category": "feature_request",
+    "pain_points": [
+      "Users have to manually run the installer for updates",
+      "The update process is considered tedious"
+    ],
+    "feature_requests": [
+      "Auto-update feature for Joplin"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users express a desire for an auto-update feature in Joplin to avoid the tedious process of manually installing updates. There is mention of a new option in the settings, but it is disabled by default, leading to questions about its availability.",
+    "tags": [
+      "update",
+      "feature_request",
+      "settings"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1837782334",
+    "url": "https://github.com/laurent22/joplin/issues/8619",
+    "title": "Investigate why decryption is slower",
+    "author": "laurent22",
+    "created_at": "2023-08-05T14:16:29+00:00",
+    "main_topic": "Decryption speed issues on mobile",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Decryption is significantly slower on mobile devices, especially Android.",
+      "Memory usage may be causing slowdowns.",
+      "Current AES-256 implementation is not usable for many users."
+    ],
+    "feature_requests": [
+      "Consider switching to AES GCM for better performance.",
+      "Test with different chunk sizes to optimize decryption speed."
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing slow decryption speeds on the Joplin app for Android, particularly with the recent AES-256 implementation. There are concerns about memory usage and the need for optimization, with suggestions to explore alternative encryption methods and chunk sizes.",
+    "tags": [
+      "mobile",
+      "performance",
+      "encryption",
+      "decryption"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2737222118",
+    "url": "https://github.com/laurent22/joplin/issues/11506",
+    "title": "sometimes in Markdown view there has some code before every notes how to sovle ?",
+    "author": "m11751",
+    "created_at": "2024-12-13T02:10:33+00:00",
+    "main_topic": "Markdown view code injection issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "CSS code appearing in Markdown notes",
+      "Inconsistent rendering of notes",
+      "Sync errors causing display issues",
+      "Frustration with GitHub bot handling of issues"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing an issue where CSS code is being displayed in the Markdown view of notes in Joplin. This problem occurs intermittently and is linked to sync errors and encryption settings, leading to frustration among users. The community is seeking a resolution and expressing dissatisfaction with the handling of the issue on GitHub.",
+    "tags": [
+      "markdown",
+      "sync",
+      "bug",
+      "ui",
+      "encryption"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2958162902",
+    "url": "https://github.com/laurent22/joplin/issues/12029",
+    "title": "Trying to Sync to Joplin Server Beta (selfhosted) Leads to Endless Synchronization Loop",
+    "author": "jonmchan",
+    "created_at": "2025-03-29T15:52:29+00:00",
+    "main_topic": "Endless Synchronization Loop Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Endless synchronization loop when incorrect password is used",
+      "Client application hangs and cannot be canceled",
+      "Difficulty reproducing the issue consistently",
+      "Profile-specific issues causing sync errors"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing an endless synchronization loop in the Joplin app when the password is incorrect, leading to frustration as the client hangs without a clear error message. The issue appears to be profile-specific and affects multiple platforms, indicating a significant bug that needs addressing.",
+    "tags": [
+      "sync",
+      "bug",
+      "performance",
+      "client",
+      "server"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2975803666",
+    "url": "https://github.com/laurent22/joplin/issues/12066",
+    "title": "Text Loss Issue in Joplin Notes",
+    "author": "huangdog",
+    "created_at": "2025-04-07T06:48:12+00:00",
+    "main_topic": "Text Loss Issue in Joplin Notes",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Text disappears from notes after switching between them",
+      "Issue occurs specifically with Sogou Pinyin input method",
+      "Loss of content happens regardless of waiting time before switching notes",
+      "Only occurs in Rich Text Editor, not in Markdown Editor"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a frustrating issue where text disappears from notes when using the Sogou Pinyin input method and switching between notes. This problem is specific to the Rich Text Editor and has been reported multiple times, indicating a significant bug that affects user experience.",
+    "tags": [
+      "bug",
+      "input_method",
+      "text_loss",
+      "rich_text_editor",
+      "windows"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2887500559",
+    "url": "https://github.com/laurent22/joplin/issues/11902",
+    "title": "Fix handling of conflict when a folder title is changed",
+    "author": "laurent22",
+    "created_at": "2025-02-28T15:45:32+00:00",
+    "main_topic": "Fix handling of conflict when a folder title is changed",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Folders disappearing during sync",
+      "Conflicts arising from rapid folder restructuring",
+      "Lack of permission control on shared notebooks",
+      "No recycle bin for Joplin Server users"
+    ],
+    "feature_requests": [
+      "Improved conflict resolution logic",
+      "Notification system for simultaneous changes by team members"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are experiencing issues with folders disappearing during synchronization, particularly when rapidly changing folder structures. This has raised concerns about data loss and the need for better conflict resolution mechanisms, especially in shared environments.",
+    "tags": [
+      "sync",
+      "conflict_resolution",
+      "shared_notebooks",
+      "data_loss",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1122623092",
+    "url": "https://github.com/laurent22/joplin/issues/6088",
+    "title": "Search string not highlighted in rich editor",
+    "author": "brandontan",
+    "created_at": "2022-02-03T03:52:40+00:00",
+    "main_topic": "Search string not highlighted in rich editor",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Search string not highlighted in rich markup editor",
+      "Inconsistent highlighting between markdown and rich editor",
+      "Users experiencing the same issue across different versions"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are reporting a bug where the search string is not highlighted in the rich markup editor of the Joplin app. This issue affects multiple users across different platforms and versions, leading to frustration due to inconsistent behavior between markdown and rich editor modes.",
+    "tags": [
+      "ui",
+      "bug",
+      "editor",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2116832311",
+    "url": "https://github.com/laurent22/joplin/issues/9852",
+    "title": "E2EE doubled storage usage",
+    "author": "ahxxm",
+    "created_at": "2024-02-04T02:00:48+00:00",
+    "main_topic": "E2EE storage usage issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Increased storage usage after enabling E2EE",
+      "Lack of clarity on encryption method migration",
+      "Confusion regarding the configuration UI for encryption"
+    ],
+    "feature_requests": [
+      "Improved compression for storage efficiency",
+      "Clearer migration instructions for encryption methods",
+      "Option to select encryption methods in the UI"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significantly increased storage usage after enabling end-to-end encryption (E2EE) in Joplin. There is confusion regarding the migration to new encryption methods and a request for better compression to save storage space.",
+    "tags": [
+      "E2EE",
+      "storage",
+      "encryption",
+      "compression",
+      "migration"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2699001763",
+    "url": "https://github.com/laurent22/joplin/issues/11452",
+    "title": "Note is automatically updated when being opened ",
+    "author": "laurent22",
+    "created_at": "2024-11-27T15:42:29+00:00",
+    "main_topic": "Note timestamp updates on view",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Note timestamp updates unexpectedly when viewing notes",
+      "Difficulty in reproducing the issue consistently",
+      "Potential race condition with Rich Text Editor's save logic",
+      "Inconsistent behavior across different operating systems"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing an issue where the timestamp of notes is updated when they are opened, leading to confusion and frustration. The problem appears to be sporadic and may be related to the editor being used, with some users unable to replicate it while others can consistently reproduce it. This issue seems to affect users on Windows and Linux, indicating a broader impact.",
+    "tags": [
+      "sync",
+      "editor",
+      "timestamp",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2858934132",
+    "url": "https://github.com/laurent22/joplin/issues/11854",
+    "title": "Inconsistent intendation behavior or use of \"enter\" with first list item",
+    "author": "Julrob199",
+    "created_at": "2025-02-17T22:55:13+00:00",
+    "main_topic": "Inconsistent indentation behavior with lists",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inconsistent behavior when pressing 'Enter' on first list item",
+      "Confusion caused by different behaviors for list items",
+      "Extra blank lines created unintentionally",
+      "Disturbance in workflow due to unexpected behavior"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing inconsistent indentation behavior when using the 'Enter' key with list items in Joplin. This issue has caused confusion and disrupted workflows, particularly with the first item in a list. The user feedback indicates a strong preference for the previous behavior that was more intuitive.",
+    "tags": [
+      "bug",
+      "ui",
+      "workflow",
+      "lists"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2812147921",
+    "url": "https://github.com/laurent22/joplin/issues/11732",
+    "title": "Spaces are not spaces when copied to another program",
+    "author": "wind0204",
+    "created_at": "2025-01-27T05:59:01+00:00",
+    "main_topic": "Copying indentation issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Indentation copied as non-breaking space instead of plain space/tab",
+      "Command sequences fail due to incorrect indentation",
+      "Inconsistent behavior between Markdown editor and note viewer",
+      "Automatic insertion of non-breaking spaces"
+    ],
+    "feature_requests": [
+      "Option to disable automatic insertion of non-breaking spaces",
+      "Improvement in how indentation is copied"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with how indentation is copied from Joplin to other applications, leading to command failures. There is a strong desire for features that allow better control over spacing and indentation behavior.",
+    "tags": [
+      "bug",
+      "editor",
+      "markdown",
+      "copy_paste",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2648456834",
+    "url": "https://github.com/laurent22/joplin/issues/11373",
+    "title": "Formatting for Image-Containing Bulleted Lists Changes Over Time ",
+    "author": "L1ghtmann",
+    "created_at": "2024-11-11T07:37:43+00:00",
+    "main_topic": "Formatting Issues with Bulleted Lists",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Bulleted lists with images become misaligned over time",
+      "Markdown formatting reverts to plain text or code blocks",
+      "Inconsistent behavior across different platforms (desktop and mobile)",
+      "Difficulty in reproducing the issue consistently"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant issues with bulleted lists containing images in Joplin, where formatting changes unexpectedly over time. This affects their ability to maintain organized notes and leads to frustration, especially since the problem is not consistently reproducible.",
+    "tags": [
+      "bug",
+      "formatting",
+      "markdown",
+      "cross-platform",
+      "user-experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1529887098",
+    "url": "https://github.com/laurent22/joplin/issues/7613",
+    "title": "Android: New note editor doesn't provide option to share raw content",
+    "author": "Terrance",
+    "created_at": "2023-01-11T23:59:02+00:00",
+    "main_topic": "Missing Share Option in Note Editor",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "New note editor lacks Android's Share option",
+      "Markdown source sharing is hindered",
+      "Copying rich text removes formatting like bullets"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are frustrated with the new note editor in Joplin for Android, which has removed the Share option that was available in the previous version. This change complicates sharing Markdown content and affects usability, particularly for users needing to maintain formatting in their notes.",
+    "tags": [
+      "mobile",
+      "ui",
+      "bug",
+      "editor"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2772539931",
+    "url": "https://github.com/laurent22/joplin/issues/11595",
+    "title": "joplin-desktop's external editor feature works only for the very first note the feature is used with.",
+    "author": "wind0204",
+    "created_at": "2025-01-07T10:58:55+00:00",
+    "main_topic": "External editor feature issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "External editor only works for the first note",
+      "Edited content not registered for subsequent notes",
+      "App freezes until external editor is closed",
+      "Chokidar not handling file changes properly"
+    ],
+    "feature_requests": [
+      "Improved handling of external editor file changes",
+      "Sophisticated logic to adapt to vim's backup behavior"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant issues with the external editor feature in Joplin, where it only functions correctly for the first note. This leads to frustration as they must restart the app to edit additional notes, indicating a critical bug that affects usability.",
+    "tags": [
+      "desktop",
+      "bug",
+      "editor",
+      "performance"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "551768368",
+    "url": "https://github.com/laurent22/joplin/issues/2312",
+    "title": "Cursor blink rate ignores system settings on MacOS",
+    "author": "timmb",
+    "created_at": "2020-01-18T13:18:32+00:00",
+    "main_topic": "Cursor blink rate ignores system settings",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Cursor blinks despite system settings",
+      "Disruption caused by cursor animation",
+      "Workaround makes cursor opaque and covers characters",
+      "Inconsistent behavior across different versions and platforms"
+    ],
+    "feature_requests": [
+      "Option to control cursor blink rate in Joplin",
+      "Fix for cursor blinking issue in ACE editor"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are frustrated with the cursor blinking in Joplin, which ignores system settings on macOS. Workarounds exist but are not ideal, leading to further dissatisfaction. The issue affects multiple users across different versions and platforms.",
+    "tags": [
+      "ui",
+      "bug",
+      "macOS",
+      "editor",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2767302201",
+    "url": "https://github.com/laurent22/joplin/issues/11574",
+    "title": "Joplin Portable Is Not Compliant With Portable Spec",
+    "author": "touwys",
+    "created_at": "2025-01-03T10:04:59+00:00",
+    "main_topic": "Joplin Portable Compliance Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Joplin Portable does not conform to the definition of a portable app",
+      "Files and folders are not restricted to the container folder"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are expressing frustration over the Joplin Portable version not adhering to portable app specifications. There is a lack of developer response to the issue, leading to calls for the issue to remain open until resolved.",
+    "tags": [
+      "portable",
+      "bug",
+      "windows",
+      "sync"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2394031227",
+    "url": "https://github.com/laurent22/joplin/issues/10694",
+    "title": "Korean Input not possible",
+    "author": "AndreasAZiegler",
+    "created_at": "2024-07-07T12:20:13+00:00",
+    "main_topic": "Korean Input not possible",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Unable to change input mode to Korean",
+      "Cannot write in Korean in both note title and content",
+      "Issues with input method when using different shells"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with Korean input in the Joplin app, particularly on Linux systems. The problem persists across different input fields and environments, leading to frustration among multiple users.",
+    "tags": [
+      "linux",
+      "input_method",
+      "bug",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2364370397",
+    "url": "https://github.com/laurent22/joplin/issues/10640",
+    "title": "unable to import @joplin/turndown into my esm project",
+    "author": "vassudanagunta",
+    "created_at": "2024-06-20T12:52:16+00:00",
+    "main_topic": "Importing Turndown.js into ESM project",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inability to import Turndown.js into ESM project",
+      "Only CJS version available in CI",
+      "Lack of activity on the issue",
+      "Concerns about breaking the primary client when attempting fixes"
+    ],
+    "feature_requests": [
+      "Support for ESM version of Turndown.js",
+      "Guidance on implementing the fix"
+    ],
+    "priority": "high",
+    "user_type": "developer",
+    "summary": "Users are facing issues importing the Turndown.js library into their ESM projects due to the lack of an ESM build. There is significant frustration regarding the inactivity on the issue and concerns about making changes without breaking existing functionality.",
+    "tags": [
+      "esm",
+      "turndown",
+      "import",
+      "build",
+      "ci"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2867432496",
+    "url": "https://github.com/laurent22/joplin/issues/11871",
+    "title": "Crash dump files littering home directory",
+    "author": "Terrance",
+    "created_at": "2025-02-20T22:39:47+00:00",
+    "main_topic": "Crash dump files littering home directory",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Crash dump files accumulating in home directory",
+      "Inappropriate storage location for log files",
+      "Lack of user control over crash dump generation"
+    ],
+    "feature_requests": [
+      "Move crash dump files to a suitable location",
+      "Make crash dump file location user-configurable",
+      "Option to disable crash dump file generation"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with crash dump files being generated and stored in their home directory, leading to frustration. Multiple users have reported this problem across different operating systems, indicating a widespread issue that requires attention.",
+    "tags": [
+      "bug",
+      "desktop",
+      "windows",
+      "linux",
+      "file_management"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2926657795",
+    "url": "https://github.com/laurent22/joplin/issues/11984",
+    "title": "Shift+Del only deletes text",
+    "author": "verglor",
+    "created_at": "2025-03-17T23:50:04+00:00",
+    "main_topic": "Shift+Del functionality issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Shift+Del only deletes text instead of cutting",
+      "Clipboard content is not updated correctly",
+      "Issue occurs specifically with bulleted lists",
+      "Inconsistent behavior between Windows and Linux"
+    ],
+    "feature_requests": [
+      "Hardcode Shift+Del to cut command",
+      "Allow multiple keyboard shortcuts for a single command"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the Shift+Del command in Joplin, which only deletes text instead of cutting it. This problem seems to be particularly prevalent with bulleted lists and varies between operating systems, leading to frustration among users.",
+    "tags": [
+      "bug",
+      "clipboard",
+      "text editing",
+      "windows",
+      "linux"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2704508174",
+    "url": "https://github.com/laurent22/joplin/issues/11454",
+    "title": "Export to JEX or HTML Fails Silently",
+    "author": "Janfel",
+    "created_at": "2024-11-29T09:34:40+00:00",
+    "main_topic": "Export to JEX or HTML Fails Silently",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Exporting notebooks as JEX or HTML fails without any error messages",
+      "File chooser issues when using KDE Plasma desktop",
+      "No logs or console messages indicating the problem"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing silent failures when attempting to export notebooks in JEX and HTML formats, with no error messages provided. The issue appears to be related to the file chooser used in KDE Plasma, affecting multiple users across different environments.",
+    "tags": [
+      "export",
+      "bug",
+      "KDE",
+      "file_picker",
+      "Linux"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1532021176",
+    "url": "https://github.com/laurent22/joplin/issues/7618",
+    "title": "The WebClipper popup doesn't show all its content",
+    "author": "webformation",
+    "created_at": "2023-01-13T09:54:07+00:00",
+    "main_topic": "Web Clipper popup content overflow",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Web Clipper popup is larger than the available area",
+      "Footer of the popup is hidden",
+      "DPI settings cause content to overflow",
+      "Difficulty reading at reduced font sizes"
+    ],
+    "feature_requests": [
+      "Implement scrollbar for Web Clipper popup",
+      "Reduce height of the popup"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the Web Clipper popup overflowing its designated area, leading to hidden content. There is a strong desire for a scrollbar feature to improve accessibility. The problem seems to be exacerbated by high DPI settings on Windows.",
+    "tags": [
+      "ui",
+      "bug",
+      "accessibility",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2812284371",
+    "url": "https://github.com/laurent22/joplin/issues/11733",
+    "title": "2025-01-27 - share permission feature not enabled",
+    "author": "CoffeeHT",
+    "created_at": "2025-01-27T07:37:12+00:00",
+    "main_topic": "Share permission feature not enabled",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Error message when accepting share permissions",
+      "Inability to accept shared folders in Basic account",
+      "Issue persists across multiple platforms (Android and Windows)"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing an error when trying to accept shared folders in Joplin Basic accounts, indicating that the share permission feature is not enabled. This issue has been reproduced across different platforms, leading to frustration among users who rely on sharing features.",
+    "tags": [
+      "mobile",
+      "sync",
+      "bug",
+      "permissions"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3054551507",
+    "url": "https://github.com/laurent22/joplin/issues/12272",
+    "title": "After restoring server snapshot, local newer data will mistakenly overwritten by old server data",
+    "author": "dd88w",
+    "created_at": "2025-05-10T22:32:27+00:00",
+    "main_topic": "Data Overwrite Issue After Snapshot Restore",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Local notes being overwritten by old server data",
+      "Inability to set log level due to visual impairment",
+      "Confusion over sync behavior after restoring server snapshot",
+      "Discrepancy in note counts between devices"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues where local notes are mistakenly deleted after restoring a server snapshot, leading to frustration over the sync behavior. The discussion highlights confusion regarding the expected functionality and the impact of timestamps on syncing.",
+    "tags": [
+      "sync",
+      "data_loss",
+      "bug",
+      "webdav",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2783539263",
+    "url": "https://github.com/laurent22/joplin/issues/11631",
+    "title": "Search result from API is stale after sync",
+    "author": "gineer01",
+    "created_at": "2025-01-13T10:12:59+00:00",
+    "main_topic": "Stale search results after sync",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Search results do not reflect newly created notes after syncing.",
+      "Need for manual indexing to see updated notes.",
+      "Inefficiency in having to run a full desktop environment for API usage."
+    ],
+    "feature_requests": [
+      "Automatic indexing after sync and API calls.",
+      "Command to trigger indexing manually.",
+      "Enhancement to allow CLI to handle indexing automatically."
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with stale search results in the Joplin app after syncing, leading to frustration. They are requesting features to automate indexing and improve efficiency in note retrieval.",
+    "tags": [
+      "sync",
+      "api",
+      "indexing",
+      "performance",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3046533581",
+    "url": "https://github.com/laurent22/joplin/issues/12248",
+    "title": "Tag Editing panel is too big",
+    "author": "kewtgh",
+    "created_at": "2025-05-07T16:25:02+00:00",
+    "main_topic": "Tag Editing panel size issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Tag editing panel is too big",
+      "Issue persists across different versions",
+      "Problem occurs when using specific language"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing an issue with the tag editing panel being excessively large in version 3.3.12, which was not present in version 3.3.7. The problem seems to be linked to the application language setting, particularly when using 中文 (简体).",
+    "tags": [
+      "ui",
+      "bug",
+      "language",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2551280581",
+    "url": "https://github.com/laurent22/joplin/issues/11125",
+    "title": "Mobile (testing environment): Last editor input is lost if changes are made less than about 100ms before closing the app",
+    "author": "personalizedrefrigerator",
+    "created_at": "2024-09-26T18:33:54+00:00",
+    "main_topic": "Last editor input loss on mobile",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Last editor input is lost if changes are made less than 100ms before closing the app",
+      "Loss of changes when exiting the note quickly",
+      "Queued changes not saving before app closure",
+      "Intermittent loss of input when editing large notes"
+    ],
+    "feature_requests": [
+      "Visual indicator for saving notes",
+      "Delay back button action until save queue is empty"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant issues with the Joplin mobile app where the last input in the note editor is lost if changes are made quickly before closing the app. This problem is compounded by the app's handling of queued changes and the timing of component unmounting, leading to frustration among users.",
+    "tags": [
+      "mobile",
+      "bug",
+      "editor",
+      "performance"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2408512317",
+    "url": "https://github.com/laurent22/joplin/issues/10749",
+    "title": "Import of a JEX file on Android fails silently",
+    "author": "webdb22",
+    "created_at": "2024-07-15T11:35:02+00:00",
+    "main_topic": "Import of JEX file on Android fails silently",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Silent failure during JEX file import",
+      "No error messages in UI or logs",
+      "Long import times with no results",
+      "App crashes on some devices"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing silent failures when attempting to import JEX files on the Joplin Android app, with no error messages provided. This issue seems to affect multiple users, leading to frustration due to the lack of resolution and support.",
+    "tags": [
+      "mobile",
+      "import",
+      "bug",
+      "performance"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3047849178",
+    "url": "https://github.com/laurent22/joplin/issues/12251",
+    "title": "Interface turn white.",
+    "author": "SuperXiaoxiong",
+    "created_at": "2025-05-08T05:28:25+00:00",
+    "main_topic": "Interface turns white after minimizing",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Interface turns white after unlocking screen and reopening Joplin",
+      "Blank window when restoring from tray or un-minimizing after moving window",
+      "Only way to repaint window is resizing it"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a bug where the Joplin interface turns white after minimizing and un-minimizing the application, particularly after moving the window. This issue has been consistently reproducible and affects multiple users, indicating a significant problem that needs addressing.",
+    "tags": [
+      "ui",
+      "bug",
+      "desktop",
+      "performance"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2992757197",
+    "url": "https://github.com/laurent22/joplin/issues/12098",
+    "title": "How much do I need to donate for you to develop a folder locking feature?",
+    "author": "NianBroken",
+    "created_at": "2025-04-14T11:21:29+00:00",
+    "main_topic": "Folder locking feature request",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Inability to lock folders or individual notes",
+      "Discomfort searching for notes in public settings",
+      "Accidental exposure of private folders"
+    ],
+    "feature_requests": [
+      "Locking feature for folders or notes",
+      "Password or FaceID prompt to access locked folders",
+      "Search function exclusion for locked folders"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users express significant concern over the lack of a folder locking feature in Joplin, which makes them uncomfortable accessing notes in public. They request a simple locking mechanism that would enhance privacy without altering existing encryption features.",
+    "tags": [
+      "privacy",
+      "security",
+      "feature_request",
+      "ui"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2970368130",
+    "url": "https://github.com/laurent22/joplin/issues/12049",
+    "title": "Files without extension are not imported properly",
+    "author": "marph91",
+    "created_at": "2025-04-03T18:29:34+00:00",
+    "main_topic": "Importing files without extensions",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Files without extensions are not imported properly",
+      "Bad parsing of file paths",
+      "Extensionless files are interpreted as binaries",
+      "Issues with importing folders"
+    ],
+    "feature_requests": [
+      "Clarification on handling extensionless files",
+      "Option to automatically assign extensions to files"
+    ],
+    "priority": "high",
+    "user_type": "developer",
+    "summary": "Users are experiencing issues with the Joplin app not properly importing files that lack extensions, leading to parsing errors and incorrect file interpretations. Developers are discussing potential fixes and seeking clarification on expected behaviors for these files.",
+    "tags": [
+      "import",
+      "files",
+      "bug",
+      "developer"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2886252405",
+    "url": "https://github.com/laurent22/joplin/issues/11900",
+    "title": "Android Share to Joplin Often Fails",
+    "author": "dbareis",
+    "created_at": "2025-02-28T05:39:32+00:00",
+    "main_topic": "Android Share to Joplin Often Fails",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Sharing to Joplin does not open in sharing mode",
+      "Notebook selection chevron is missing",
+      "Inconsistent behavior when sharing from Chrome",
+      "Note contents may not be fully captured",
+      "Existing notes can be overwritten without history"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant issues with the sharing functionality from Android to Joplin, often resulting in incomplete note captures and inconsistent app behavior. This problem has persisted across multiple platforms, indicating a widespread frustration among users.",
+    "tags": [
+      "mobile",
+      "sharing",
+      "bug",
+      "sync",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2865777480",
+    "url": "https://github.com/laurent22/joplin/issues/11866",
+    "title": "Clipboard content is logged when pasting text into note body when using Rich Text Editor",
+    "author": "mrjo118",
+    "created_at": "2025-02-20T10:44:25+00:00",
+    "main_topic": "Clipboard logging privacy issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Pasted text is logged, causing privacy concerns",
+      "Full text logging can expose sensitive information",
+      "Lack of logging in markdown editor but present in rich text editor"
+    ],
+    "feature_requests": [
+      "Trim logged pasted text to a small snippet",
+      "Option to disable logging of pasted content"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are concerned about the logging of pasted text in the rich text editor of the Joplin app, which poses privacy risks. They suggest trimming the logged content to mitigate these issues. The problem persists and has not been resolved, indicating a significant user frustration.",
+    "tags": [
+      "privacy",
+      "logging",
+      "rich_text_editor",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2845805218",
+    "url": "https://github.com/laurent22/joplin/issues/11825",
+    "title": "Add more default plugins",
+    "author": "laurent22",
+    "created_at": "2025-02-11T15:59:24+00:00",
+    "main_topic": "Add more default plugins",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Increased RAM usage due to default plugins",
+      "Security concerns with enabled plugins",
+      "Lack of ability to remove default plugins"
+    ],
+    "feature_requests": [
+      "Add Favourite plugin",
+      "Add Note List Preview plugin",
+      "Add Note graph plugin",
+      "Ability to remove default plugins"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users express concerns about the addition of more default plugins in Joplin, highlighting issues related to RAM usage and security. They request specific plugins while also seeking the ability to remove unnecessary defaults.",
+    "tags": [
+      "plugins",
+      "performance",
+      "security",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2840212332",
+    "url": "https://github.com/laurent22/joplin/issues/11810",
+    "title": "The order of notes is modified after importing while moving through the list",
+    "author": "tspivey",
+    "created_at": "2025-02-08T19:00:52+00:00",
+    "main_topic": "Order of notes modified after import",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Notes change order unexpectedly after importing",
+      "Line endings affect note order",
+      "Issue persists across multiple versions"
+    ],
+    "feature_requests": [
+      "Automatically convert line endings during import"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the order of notes being modified after importing, particularly related to line endings. This problem has been reported across multiple versions of the app, indicating a significant frustration among users.",
+    "tags": [
+      "import",
+      "notes",
+      "line_endings",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2732826395",
+    "url": "https://github.com/laurent22/joplin/issues/11489",
+    "title": "Sychronizing to OneDrive creates \\Apps\\Graph folder",
+    "author": "RiseT",
+    "created_at": "2024-12-11T12:19:05+00:00",
+    "main_topic": "OneDrive sync folder issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Folder created at incorrect location",
+      "Mixing of contents between profiles",
+      "Potential data loss when syncing",
+      "Different login methods for mobile and desktop"
+    ],
+    "feature_requests": [
+      "Create a folder named 'Joplin' instead of 'Graph'",
+      "Allow different subfolders for different Joplin profiles",
+      "Implement failsafe to prevent data loss during sync"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with Joplin creating a 'Graph' folder instead of a 'Joplin' folder when syncing to OneDrive, leading to data loss and confusion between profiles. There are requests for improved folder management and safeguards against data loss.",
+    "tags": [
+      "sync",
+      "OneDrive",
+      "data_loss",
+      "profiles",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2638136105",
+    "url": "https://github.com/laurent22/joplin/issues/11322",
+    "title": "Joplin terminal server crashes when deleting a notebok with note(s) inside, through data API",
+    "author": "gri38",
+    "created_at": "2024-11-06T13:42:53+00:00",
+    "main_topic": "Joplin terminal server crash on notebook deletion",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "App crashes when deleting a notebook with notes inside",
+      "Confusion over reproducibility of the bug",
+      "Uncertainty about whether reinstalling Joplin would help"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing crashes in the Joplin terminal server when attempting to delete a notebook that contains notes. There is confusion regarding the reproducibility of the bug and whether it has been resolved in newer versions. The issue appears to be significant enough to warrant urgent attention.",
+    "tags": [
+      "bug",
+      "terminal",
+      "deletion",
+      "crash",
+      "api"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1975963357",
+    "url": "https://github.com/laurent22/joplin/issues/9205",
+    "title": "Cloudflare: Sorry, you have been blocked",
+    "author": "DavidPesticcio",
+    "created_at": "2023-11-03T11:16:57+00:00",
+    "main_topic": "Cloudflare error with Joplin Clipper",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Cloudflare error page is saved instead of the intended URL",
+      "Need for cookie handling to bypass Cloudflare restrictions"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the Joplin Web Clipper saving Cloudflare error pages instead of the intended content. The problem is attributed to Cloudflare's cookie requirements, which Joplin currently cannot navigate. This issue requires urgent attention as it affects the functionality of the app.",
+    "tags": [
+      "clipper",
+      "bug",
+      "cloudflare",
+      "cookies",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2559466028",
+    "url": "https://github.com/laurent22/joplin/issues/11167",
+    "title": "Incompatibility of Custom CSS with New CodeMirror Structure: Problems with Headings, Lists, and Blockquotes",
+    "author": "inesucrvenom",
+    "created_at": "2024-10-01T14:46:29+00:00",
+    "main_topic": "Custom CSS Incompatibility Issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Custom CSS not working with new CodeMirror structure",
+      "Loss of styling for headings, lists, and blockquotes",
+      "Dynamic class names causing issues with CSS targeting",
+      "Inability to apply colors to lists and headers as before"
+    ],
+    "feature_requests": [
+      "Ability to customize CSS for markdown lists in the new editor",
+      "Stability in class names to avoid breaking custom styles"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing significant issues with custom CSS compatibility in the new CodeMirror structure of Joplin, particularly affecting headings, lists, and blockquotes. Many users are frustrated and reverting to older versions or the legacy editor for functionality. There is a strong request for improved support for custom styling in the new editor.",
+    "tags": [
+      "css",
+      "markdown",
+      "editor",
+      "customization",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2889825462",
+    "url": "https://github.com/laurent22/joplin/issues/11907",
+    "title": "Joplin Does Not Respect Emoji Font Choice",
+    "author": "deepspaceaxolotl",
+    "created_at": "2025-03-02T22:20:38+00:00",
+    "main_topic": "Emoji Font Choice Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Joplin does not respect the OS's preferred emoji font",
+      "Users cannot change the emoji font despite OS settings",
+      "No option to select a custom emoji font installed on the OS"
+    ],
+    "feature_requests": [
+      "Ability to select a custom emoji font",
+      "Support for color emoji using user-installed fonts"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are frustrated that Joplin does not allow customization of the emoji font, which remains fixed regardless of the OS settings. They are requesting the ability to select a custom emoji font to enhance their note-taking experience.",
+    "tags": [
+      "emoji",
+      "ui",
+      "customization",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2765818268",
+    "url": "https://github.com/laurent22/joplin/issues/11569",
+    "title": "Joplin Portable: the version number does not update",
+    "author": "touwys",
+    "created_at": "2025-01-02T10:52:51+00:00",
+    "main_topic": "Version number not updating",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Version number remains unchanged after update",
+      "Old version may still be running in the background",
+      "Requires a cold reboot to display the correct version"
+    ],
+    "feature_requests": [
+      "Compare the version of the launched copy with the currently running copy"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the Joplin app where the version number does not update after installing a newer version. This has led to confusion and frustration, with some users needing to reboot their PCs to see the correct version. Suggestions for improvement include implementing a version comparison feature.",
+    "tags": [
+      "desktop",
+      "bug",
+      "versioning",
+      "support"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2724733375",
+    "url": "https://github.com/laurent22/joplin/issues/11475",
+    "title": "DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.",
+    "author": "samj",
+    "created_at": "2024-12-07T17:17:08+00:00",
+    "main_topic": "DeprecationWarning in Joplin app",
+    "sentiment": "neutral",
+    "category": "bug_report",
+    "pain_points": [
+      "Deprecation warning related to the punycode module",
+      "Issues with React and React hooks versions",
+      "Need for potential upgrades or downgrades in dependencies"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "developer",
+    "summary": "Users are encountering a deprecation warning related to the punycode module while using Joplin 3.0.1. There are discussions about upgrading dependencies and potential fixes, indicating a technical issue that may affect the app's functionality.",
+    "tags": [
+      "bug",
+      "deprecation",
+      "react",
+      "dependencies",
+      "sync"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2582124359",
+    "url": "https://github.com/laurent22/joplin/issues/11194",
+    "title": "Notes are not being shared properly",
+    "author": "laurent22",
+    "created_at": "2024-10-11T20:18:57+00:00",
+    "main_topic": "Notes not syncing properly",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Notes not syncing between users",
+      "Difficulty replicating the issue",
+      "Frustration with lack of fixes",
+      "Migration to another app is hard due to large number of notes"
+    ],
+    "feature_requests": [
+      "Fix for syncing issues",
+      "Database cleanup options"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with notes not syncing properly between different users, leading to frustration. Despite attempts to replicate the issue, it remains unresolved, and users are seeking a fix to avoid migrating to another application.",
+    "tags": [
+      "sync",
+      "bug",
+      "database",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2410745223",
+    "url": "https://github.com/laurent22/joplin/issues/10752",
+    "title": "deletion of attachments",
+    "author": "efferre79",
+    "created_at": "2024-07-16T10:04:35+00:00",
+    "main_topic": "Deletion of attachments",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Unable to delete attachments from notes",
+      "Deleted links still preserve datafiles in resource folder",
+      "Unused attachments remain for over 90 days",
+      "Large files persist despite deleting notes and trash"
+    ],
+    "feature_requests": [
+      "Add a 'delete...' option in the contextual menu for attachments",
+      "Manual cleanup option for unused attachments"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are frustrated with the inability to delete attachments from notes in Joplin, as deleted links do not remove the associated datafiles. There is a strong request for a feature to manually clean up unused attachments, especially for those who keep their note history indefinitely.",
+    "tags": [
+      "desktop",
+      "attachments",
+      "cleanup",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1431289255",
+    "url": "https://github.com/laurent22/joplin/issues/6996",
+    "title": "Dependency Dashboard",
+    "author": "renovate[bot]",
+    "created_at": "2022-11-01T11:36:40+00:00",
+    "main_topic": "Dependency Dashboard",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Rate-limited updates",
+      "Deprecated dependencies",
+      "Pending status checks"
+    ],
+    "feature_requests": [
+      "Automated config migration PR",
+      "Force creation of rate-limited PRs"
+    ],
+    "priority": "medium",
+    "user_type": "developer",
+    "summary": "The thread discusses the Dependency Dashboard for managing updates and dependencies in the Joplin app. Users express concerns about rate-limited updates and deprecated dependencies, while also requesting features for automated PR creation.",
+    "tags": [
+      "dependencies",
+      "updates",
+      "automation",
+      "development"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2061801192",
+    "url": "https://github.com/laurent22/joplin/issues/9644",
+    "title": "Android: Export should save data on SD card prior to sharing",
+    "author": "tburny",
+    "created_at": "2024-01-01T22:17:58+00:00",
+    "main_topic": "Export functionality on Android",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Exported file not stored locally as a backup",
+      "User lost personal notes due to misunderstanding of export process",
+      "Share dialog may be easily missed"
+    ],
+    "feature_requests": [
+      "Store exported file locally (e.g., on SD card) before sharing"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are frustrated with the Joplin Android app's export functionality, as it does not save exported files locally before presenting a share dialog. This has led to data loss for users who assumed their notes were backed up. A request has been made to improve the export process to prevent such issues.",
+    "tags": [
+      "mobile",
+      "export",
+      "backup",
+      "data_loss"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3049104438",
+    "url": "https://github.com/laurent22/joplin/issues/12253",
+    "title": "Wrong action button title",
+    "author": "summoner001",
+    "created_at": "2025-05-08T14:00:45+00:00",
+    "main_topic": "Wrong action button title",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Confusing button title 'Insert' instead of 'Underline'",
+      "Misleading for non-tech-savvy users"
+    ],
+    "feature_requests": [
+      "Change button label to 'Underline'"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are reporting that the underline button in Joplin is incorrectly labeled as 'Insert', leading to confusion, especially for non-technical users. This issue has been observed across multiple platforms, indicating it affects a broader user base.",
+    "tags": [
+      "ui",
+      "bug",
+      "markdown"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "1078954022",
+    "url": "https://github.com/laurent22/joplin/issues/5856",
+    "title": "Hard/Soft Breaks rendering in Joplin Server",
+    "author": "jabums",
+    "created_at": "2021-12-13T20:10:12+00:00",
+    "main_topic": "Hard/Soft Breaks rendering in Joplin Server",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inconsistent rendering of line breaks between desktop and server",
+      "Need to add double spaces for hard breaks is cumbersome",
+      "Difficulty in editing notes due to formatting issues",
+      "Limited use of sharing functionality due to rendering problems"
+    ],
+    "feature_requests": [
+      "Standardize hard breaks on server output",
+      "Improve usability for line breaks in markdown"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the rendering of line breaks in Joplin Server, which differs from the desktop app. This inconsistency leads to frustration, as users must manually adjust their notes for proper formatting when sharing. The problem has persisted for years, indicating a need for urgent attention.",
+    "tags": [
+      "markdown",
+      "rendering",
+      "usability",
+      "sharing",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3097094804",
+    "url": "https://github.com/laurent22/joplin/issues/12354",
+    "title": "Joplin and Extremely High Memory Usage",
+    "author": "Maghsad",
+    "created_at": "2025-05-28T11:56:00+00:00",
+    "main_topic": "Joplin High Memory Usage",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Excessive memory usage when idle",
+      "High memory consumption compared to other applications",
+      "Potential memory leak or architectural inefficiency",
+      "Inconsistent memory usage across different environments"
+    ],
+    "feature_requests": [
+      "Optimize background processes for lower memory usage",
+      "Implement a setting to control memory usage for loaded notes",
+      "Improve memory management similar to web browsers"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are reporting extremely high memory usage by Joplin when idle, with some instances consuming up to 1.5 GB. This has raised concerns about potential memory leaks and inefficiencies, prompting requests for optimization and better resource management.",
+    "tags": [
+      "performance",
+      "memory",
+      "bug",
+      "optimization"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3071249665",
+    "url": "https://github.com/laurent22/joplin/issues/12312",
+    "title": "\"Clear cache and re-download language data files\" not working",
+    "author": "ericjacolin",
+    "created_at": "2025-05-18T01:20:34+00:00",
+    "main_topic": "OCR language data cache issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Clearing cache does not remove old language files",
+      "OCR only works with English despite adding Chinese language files",
+      "User expectation of multi-language support not met"
+    ],
+    "feature_requests": [
+      "Automatically remove models for non-active languages",
+      "Add option to re-OCR all attachments",
+      "Improve cache clearing functionality"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with the OCR feature in Joplin, specifically that clearing the cache does not remove old language files, preventing the use of newly added languages. There is a strong desire for improved functionality and automatic management of language files.",
+    "tags": [
+      "ocr",
+      "language",
+      "cache",
+      "bug",
+      "linux"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3043461098",
+    "url": "https://github.com/laurent22/joplin/issues/12240",
+    "title": "MacOS: Printing and Export to PDF both fail with console error",
+    "author": "bsavant",
+    "created_at": "2025-05-06T16:57:21+00:00",
+    "main_topic": "Printing and PDF export issues on MacOS",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Printing fails silently without console message",
+      "Second print attempt shows 'already printing' message",
+      "Export to PDF fails for some users",
+      "Workaround not documented"
+    ],
+    "feature_requests": [
+      "Fix for printing and PDF export on MacOS",
+      "Documentation for mediaSize property workaround"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with printing and exporting to PDF on MacOS using Joplin 3.3.12. The problems include silent failures and error messages, with some users suggesting workarounds that are not well-documented. This issue appears to affect multiple users across different operating systems.",
+    "tags": [
+      "macOS",
+      "printing",
+      "PDF export",
+      "bug",
+      "workaround"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2889548879",
+    "url": "https://github.com/laurent22/joplin/issues/11903",
+    "title": "Avoid a11y redundancy tips",
+    "author": "cary-rowen",
+    "created_at": "2025-03-02T13:23:32+00:00",
+    "main_topic": "Accessibility Redundancy in Joplin",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Redundant announcements by the screen reader for tree view state",
+      "Excessive information provided for empty notebooks",
+      "Confusion regarding the necessity of certain messages"
+    ],
+    "feature_requests": [
+      "Concise messaging for empty notebooks",
+      "Improved handling of search result announcements"
+    ],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "Users are discussing the redundancy in screen reader announcements within the Joplin app, particularly regarding tree view states and empty notebooks. They appreciate recent accessibility efforts but suggest improvements for clearer communication.",
+    "tags": [
+      "accessibility",
+      "screen_reader",
+      "ui",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2885781063",
+    "url": "https://github.com/laurent22/joplin/issues/11898",
+    "title": "Border Style Not Persistent",
+    "author": "ScriptInfra",
+    "created_at": "2025-02-27T22:58:09+00:00",
+    "main_topic": "Border Style Not Persistent",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Border style setting does not apply or persist",
+      "Need to manually insert HTML for border to persist",
+      "Table must be converted to HTML to add border"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a bug where the border style for tables does not persist after selection. This issue requires manual intervention to achieve the desired effect, leading to frustration among users.",
+    "tags": [
+      "ui",
+      "bug",
+      "table",
+      "html"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2725642730",
+    "url": "https://github.com/laurent22/joplin/issues/11479",
+    "title": "Share/editing during sync of moved notes rewrites unrelated notes",
+    "author": "Terrance",
+    "created_at": "2024-12-09T00:10:07+00:00",
+    "main_topic": "Sync issues with moved notes",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Unrelated note titles flash during sync",
+      "Current editor contents added as revisions to unrelated notes",
+      "Bulk actions can corrupt note contents",
+      "Focus lost during sync causing unintended edits"
+    ],
+    "feature_requests": [
+      "Improved background sync handling",
+      "Better synchronization prompts during editing"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant issues with note synchronization when moving notes between notebooks, leading to unintended content changes in unrelated notes. The problem appears to be exacerbated during background syncs, making bulk actions risky. Although a recent update seems to have mitigated the issue, users remain concerned about potential data loss.",
+    "tags": [
+      "mobile",
+      "sync",
+      "bug",
+      "editing",
+      "performance"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2267564949",
+    "url": "https://github.com/laurent22/joplin/issues/10384",
+    "title": "Content of last note is not showed on startup when \"All notes\" is used",
+    "author": "iJorgen",
+    "created_at": "2024-04-28T13:32:28+00:00",
+    "main_topic": "Last note not shown on startup",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Last edited note not displayed on startup when 'All notes' is selected",
+      "Empty screen with no note selected after restarting Joplin"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing an issue where the last edited note is not displayed upon startup when 'All notes' is selected, leading to confusion and frustration. This bug appears to be specific to the Linux version of Joplin, while it works correctly on Windows.",
+    "tags": [
+      "linux",
+      "bug",
+      "ui"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2183388014",
+    "url": "https://github.com/laurent22/joplin/issues/10111",
+    "title": "Bug in ENEX to Markdown parser incorrectly adds paragraphs to bullet points with a newline",
+    "author": "RePlay-be",
+    "created_at": "2024-03-13T08:24:35+00:00",
+    "main_topic": "Bug in ENEX to Markdown parser",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Bullet points with a newline incorrectly create a new paragraph",
+      "Inconsistent behavior between bullet points and numbered items"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing a bug when importing notes from Evernote to Markdown in Joplin, where bullet points with newlines are incorrectly formatted. This issue has been acknowledged and remains unresolved, indicating a need for attention from the development team.",
+    "tags": [
+      "import",
+      "bug",
+      "markdown",
+      "evernote"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2176977849",
+    "url": "https://github.com/laurent22/joplin/issues/10095",
+    "title": "Images missing when pasting into webapps and some desktop apps from Joplin",
+    "author": "personalizedrefrigerator",
+    "created_at": "2024-03-09T00:57:50+00:00",
+    "main_topic": "Images missing when pasting from Joplin",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Images not pasted in certain applications",
+      "Inconsistent behavior across different platforms",
+      "Clipboard format issues with file:// URLs"
+    ],
+    "feature_requests": [
+      "Use data:image/png;base64 URLs for images",
+      "Add a field to the tag when copying to avoid resource duplication"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with images not being pasted correctly from Joplin into various applications, particularly on Linux and Windows. The thread discusses potential solutions and highlights the inconsistency of the feature across different platforms.",
+    "tags": [
+      "clipboard",
+      "images",
+      "linux",
+      "windows",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "517173169",
+    "url": "https://github.com/laurent22/joplin/issues/2059",
+    "title": "Add menu item to convert a note from HTML to Markdown",
+    "author": "msbentley",
+    "created_at": "2019-11-04T14:03:31+00:00",
+    "main_topic": "Convert HTML notes to Markdown",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Exporting HTML notes does not convert to Markdown",
+      "Misleading expectation that export would perform format conversion",
+      "Lack of functionality to duplicate HTML notes as Markdown"
+    ],
+    "feature_requests": [
+      "Add a menu item to convert HTML notes to Markdown",
+      "Create a new note with Markdown content upon conversion",
+      "Move original HTML note to trash after conversion",
+      "Display a notification after conversion"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are frustrated with the inability to convert HTML notes to Markdown in Joplin, especially after importing notes from Evernote. They request a feature that allows for easy conversion and duplication of notes while maintaining user expectations.",
+    "tags": [
+      "html",
+      "markdown",
+      "feature_request",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3124067547",
+    "url": "https://github.com/laurent22/joplin/issues/12400",
+    "title": "Add a text layer over OCR-ed PDF files",
+    "author": "laurent22",
+    "created_at": "2025-06-06T08:35:38+00:00",
+    "main_topic": "Overlay text on OCR-ed PDFs",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [
+      "PDF documents are essentially images and cannot be read by screen reader tools",
+      "Accessibility issues for users dealing with non-readable PDF documents"
+    ],
+    "feature_requests": [
+      "Create accessible document feature that overlays text on OCR-ed PDFs",
+      "Right-click menu option to create accessible documents"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are requesting a feature to overlay text on OCR-ed PDF files to improve accessibility for screen readers. The proposed solution aims to maintain the original appearance of the document while allowing text selection and copying.",
+    "tags": [
+      "accessibility",
+      "OCR",
+      "PDF",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3040510380",
+    "url": "https://github.com/laurent22/joplin/issues/12234",
+    "title": "Keyboard Navigation (Accessibility Issue) Not working.",
+    "author": "xgpt",
+    "created_at": "2025-05-05T18:46:51+00:00",
+    "main_topic": "Keyboard Navigation Accessibility Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Unable to navigate between menus using arrow keys",
+      "Stuck in 'File' menu",
+      "Expected keyboard-centric navigation not functioning"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with keyboard navigation in the Joplin app, specifically being unable to move between menu options using arrow keys. This problem significantly impacts accessibility for users who rely on keyboard navigation. Workarounds exist, but they are not ideal.",
+    "tags": [
+      "accessibility",
+      "keyboard_navigation",
+      "bug",
+      "linux"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3040470936",
+    "url": "https://github.com/laurent22/joplin/issues/12233",
+    "title": "Unclear icon, seems to do nothing. Screenshot attached.",
+    "author": "xgpt",
+    "created_at": "2025-05-05T18:28:44+00:00",
+    "main_topic": "Unclear icon functionality",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Icon appears to do nothing",
+      "No tooltips on hover",
+      "Confusion about icon functionality"
+    ],
+    "feature_requests": [
+      "Add tooltips to the unclear icon and the '+' button",
+      "Make the icon inactive if there are no subnotebooks"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing confusion due to an unclear icon that lacks tooltips, leading to frustration. A fix has been submitted to add tooltips to improve clarity and accessibility.",
+    "tags": [
+      "ui",
+      "desktop",
+      "accessibility",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3118888355",
+    "url": "https://github.com/laurent22/joplin/issues/12389",
+    "title": "Server : Not able to start with custom s3 server Endpoint",
+    "author": "AlenGeoAlex",
+    "created_at": "2025-06-04T19:27:38+00:00",
+    "main_topic": "Joplin Server Custom S3 Endpoint Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Server crashes with custom S3 endpoint usage",
+      "Invalid key error in connection string",
+      "Docker image may not be updated"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "developer",
+    "summary": "Users are experiencing crashes when trying to start the Joplin server with a custom S3 endpoint, indicating a potential issue with the Docker image not being updated. The error message suggests that the endpoint key is invalid, leading to confusion and frustration among users.",
+    "tags": [
+      "server",
+      "s3",
+      "docker",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3061090747",
+    "url": "https://github.com/laurent22/joplin/issues/12292",
+    "title": "\"Tags\" have no hover effect",
+    "author": "mohamedbhs7",
+    "created_at": "2025-05-13T19:57:45+00:00",
+    "main_topic": "Tags hover effect issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "No visual change when hovering over tags",
+      "Tags appear non-clickable or inactive",
+      "Lack of indication for the 'Tags' section when hovered",
+      "No visual indicator for collapsible 'Notebooks' section"
+    ],
+    "feature_requests": [
+      "Visual change on hover for tags",
+      "Arrow or visual indicator for clicked tags",
+      "Chevron or visual indicator for collapsible sections"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing frustration due to the lack of visual feedback when hovering over tags and the 'Tags' section. They are requesting clear indicators for interactivity to enhance usability.",
+    "tags": [
+      "ui",
+      "user_experience",
+      "interaction",
+      "feedback"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3046670470",
+    "url": "https://github.com/laurent22/joplin/issues/12249",
+    "title": "Webdav - bad content length sent",
+    "author": "johaven",
+    "created_at": "2025-05-07T17:21:23+00:00",
+    "main_topic": "WebDAV content length issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Incorrect content-length header causing synchronization issues",
+      "Files in .resource not having correct content-length",
+      "Timeout issues when using TLS offloader",
+      "Inconsistent behavior across different operating systems and versions"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with incorrect content-length headers during WebDAV synchronization, leading to failed transfers and timeouts. The problem appears to be more prevalent on the desktop version of Joplin, with some users reporting it as an ongoing issue since last year.",
+    "tags": [
+      "WebDAV",
+      "sync",
+      "desktop",
+      "bug",
+      "TLS"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3038198987",
+    "url": "https://github.com/laurent22/joplin/issues/12228",
+    "title": "\"Link to Note\" keyboard shortcut conflicts with Polish keyboard layout",
+    "author": "pitermach",
+    "created_at": "2025-05-04T19:34:54+00:00",
+    "main_topic": "Keyboard shortcut conflict with Polish layout",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Default keyboard shortcut conflicts with Polish keyboard layout",
+      "Inability to type accented characters due to shortcut priority",
+      "Inconsistent behavior between macOS and Windows regarding keyboard shortcuts"
+    ],
+    "feature_requests": [
+      "Change default shortcut to avoid conflicts with non-English keyboard layouts"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the 'Link to Note' keyboard shortcut conflicting with the Polish keyboard layout, preventing them from typing certain characters. While users can reassign shortcuts, they suggest that the default should be adjusted to accommodate different layouts.",
+    "tags": [
+      "keyboard_shortcuts",
+      "localization",
+      "bug",
+      "macOS",
+      "Windows"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3037612364",
+    "url": "https://github.com/laurent22/joplin/issues/12220",
+    "title": "Add an option to remove the J icon from note links",
+    "author": "laurent22",
+    "created_at": "2025-05-03T21:02:28+00:00",
+    "main_topic": "Remove J icon from note links",
+    "sentiment": "neutral",
+    "category": "feature_request",
+    "pain_points": [
+      "Users dislike the current icon for local links",
+      "Inconsistency in icon display across different editors",
+      "Concern about losing the option to indicate local links"
+    ],
+    "feature_requests": [
+      "Option to remove the J icon",
+      "New indicator for external links",
+      "More subtle icon for links"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are discussing the J icon used for local links in the Joplin app, expressing mixed feelings about its removal. Some users find it helpful for identifying local links, while others prefer a more subtle or different indicator. The conversation suggests a need for a customizable option to cater to different user preferences.",
+    "tags": [
+      "ui",
+      "customization",
+      "links",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2973982679",
+    "url": "https://github.com/laurent22/joplin/issues/12056",
+    "title": "Pictures missing/disappearing",
+    "author": "Julrob199",
+    "created_at": "2025-04-05T07:22:07+00:00",
+    "main_topic": "Pictures missing/disappearing",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Pictures disappearing after some months",
+      "Need to restore pictures from old backups",
+      "No clear pattern for which notes are affected",
+      "Deletion log does not provide useful information",
+      "Frustration with the lack of support and response"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with pictures disappearing from notes in Joplin after several months. The problem is inconsistent, with no clear pattern for affected notes, leading to frustration and reliance on old backups. The user has identified a potential pattern related to images created by the Joplin browser extension.",
+    "tags": [
+      "bug",
+      "sync",
+      "desktop",
+      "attachments",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2973458452",
+    "url": "https://github.com/laurent22/joplin/issues/12054",
+    "title": "Wacom stylus input doesn't work in .deb version, does work in .AppImage",
+    "author": "everdred",
+    "created_at": "2025-04-04T22:09:39+00:00",
+    "main_topic": "Wacom stylus input issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Wacom stylus input does not work in .deb version",
+      "No response when using stylus buttons",
+      "Obnoxious bot responses to user concerns"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with Wacom stylus input not functioning in the .deb version of Joplin while it works in the .AppImage version. The lack of resolution and repetitive bot responses have led to user frustration.",
+    "tags": [
+      "linux",
+      "ui",
+      "bug",
+      "input"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2959423186",
+    "url": "https://github.com/laurent22/joplin/issues/12034",
+    "title": "In editor-only layout, mistakenly navigating to the top of a note after a global search without match",
+    "author": "UlyssesZh",
+    "created_at": "2025-03-31T04:14:00+00:00",
+    "main_topic": "Editor-only layout navigation issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Note scrolls to the top after exiting search",
+      "Inconsistent behavior between editor-only and editor-and-preview layouts"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a frustrating issue where the note scrolls to the top after performing a global search in the editor-only layout. This behavior is inconsistent with the editor-and-preview layout, leading to dissatisfaction among users.",
+    "tags": [
+      "ui",
+      "editor",
+      "navigation",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2911321625",
+    "url": "https://github.com/laurent22/joplin/issues/11949",
+    "title": "New note, while viewing notes with tag, creates note without tag",
+    "author": "skuhl",
+    "created_at": "2025-03-11T17:20:02+00:00",
+    "main_topic": "Note creation without tag issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "New notes created while viewing tagged notes do not retain the tag.",
+      "New notes appear in the list as if they have the tag but do not.",
+      "Uncertainty about which notebook the new note is saved in."
+    ],
+    "feature_requests": [
+      "New notes should have the tag by default when created under a tag.",
+      "Provide a prompt for users to select a notebook or not assign a notebook."
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the Joplin app where new notes created while viewing tagged notes do not retain the tag, leading to confusion about their organization. This problem persists across multiple versions, indicating it affects a significant number of users.",
+    "tags": [
+      "bug",
+      "tagging",
+      "note_creation",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2836363802",
+    "url": "https://github.com/laurent22/joplin/issues/11796",
+    "title": "Accessibility: Fix Dropbox login screen",
+    "author": "laurent22",
+    "created_at": "2025-02-06T19:11:23+00:00",
+    "main_topic": "Accessibility: Fix Dropbox login screen",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Difficulty with Dropbox website's 'copy code' screen",
+      "TalkBack misidentifying elements",
+      "Inconvenience in copying the code"
+    ],
+    "feature_requests": [
+      "Custom redirect URL instead of 'copy code' screen",
+      "Improved accessibility for Dropbox authentication"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant difficulties with the Dropbox login screen due to accessibility issues with TalkBack. They are requesting a custom redirect URL to improve the authentication process and have reported the issue to Dropbox for further investigation.",
+    "tags": [
+      "accessibility",
+      "sync",
+      "Dropbox",
+      "OAuth"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2835324636",
+    "url": "https://github.com/laurent22/joplin/issues/11791",
+    "title": "First letter should be uppercase in list item",
+    "author": "laurent22",
+    "created_at": "2025-02-06T11:55:35+00:00",
+    "main_topic": "Autocapitalization in list items",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "First letter of list items is lowercase instead of uppercase",
+      "Keyboard not recognizing new list items as the beginning of a sentence",
+      "Autocapitalization can be inconvenient and poorly implemented"
+    ],
+    "feature_requests": [
+      "Option to disable autocapitalization for list items"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing issues with the first letter of list items being lowercase instead of uppercase in the Joplin app. There are concerns about the autocapitalization feature being inconvenient, especially on mobile devices. Users are requesting an option to disable this feature to avoid frustration.",
+    "tags": [
+      "mobile",
+      "ui",
+      "editor",
+      "bug"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2793111591",
+    "url": "https://github.com/laurent22/joplin/issues/11661",
+    "title": "Mobile: Accessibility: Comply with WCAG 2.2",
+    "author": "personalizedrefrigerator",
+    "created_at": "2025-01-16T15:39:29+00:00",
+    "main_topic": "Mobile Accessibility Compliance",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Screen reader navigation difficulties",
+      "Focus jumps to incorrect elements",
+      "Missing accessibility labels",
+      "Contrast issues",
+      "Keyboard accessibility problems"
+    ],
+    "feature_requests": [
+      "Add accessibility actions for note list items",
+      "Implement an accessibility check button for audio/video",
+      "Improve labels for dropdowns and buttons",
+      "Ensure keyboard focus works correctly with external keyboards"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "The thread discusses various accessibility issues in the Joplin mobile app, particularly focusing on compliance with WCAG 2.2 standards. Users report difficulties with screen reader navigation, focus management, and missing accessibility features, indicating a need for improvements to enhance usability for individuals with disabilities.",
+    "tags": [
+      "mobile",
+      "accessibility",
+      "WCAG",
+      "screen_reader",
+      "keyboard_navigation"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3115890952",
+    "url": "https://github.com/laurent22/joplin/issues/12382",
+    "title": "Jopllin Release v3.3.12",
+    "author": "cbzlqyang",
+    "created_at": "2025-06-04T00:58:51+00:00",
+    "main_topic": "Joplin v3.3.12 Release Feedback",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Occasional white screen preventing content display",
+      "UI issues when moving the window before minimizing",
+      "Error messages related to unique constraints in the database"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing significant UI issues with Joplin v3.3.12, including a white screen that prevents content from displaying and errors related to database constraints. The problem seems to be exacerbated when the window is moved before minimizing, leading to frustration among users.",
+    "tags": [
+      "ui",
+      "bug",
+      "performance",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3034033570",
+    "url": "https://github.com/laurent22/joplin/issues/12198",
+    "title": "which icons are shown vs. hidden in 3 dots menu changes when toggling editors",
+    "author": "bwat47",
+    "created_at": "2025-05-01T14:52:16+00:00",
+    "main_topic": "Icons visibility in 3 dots menu",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Icons shown vs hidden changes unexpectedly when toggling editors",
+      "No resizing of the window but icons still change"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing an issue where the icons displayed in the 3 dots menu change when toggling editors, despite the window not being resized. This problem persists across multiple versions, indicating it affects several users.",
+    "tags": [
+      "ui",
+      "bug",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2715926507",
+    "url": "https://github.com/laurent22/joplin/issues/11463",
+    "title": "Linux desktop app restores note from history as \"Untitled\" with empty content ",
+    "author": "b-mc",
+    "created_at": "2024-12-03T20:34:39+00:00",
+    "main_topic": "Restoring notes from history issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Restored notes appear as 'Untitled' with empty content on Linux",
+      "Inconsistent behavior between Linux and MacOS versions",
+      "Critical feature for users not functioning properly"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with restoring notes from history on the Linux version of the Joplin app, where restored notes show up as 'Untitled' and empty. This problem does not occur on the MacOS version, leading to frustration among users who rely on this feature.",
+    "tags": [
+      "linux",
+      "sync",
+      "bug",
+      "desktop"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "2553769861",
+    "url": "https://github.com/laurent22/joplin/issues/11142",
+    "title": "Windows installer: Cannot close Joplin",
+    "author": "personalizedrefrigerator",
+    "created_at": "2024-09-27T21:38:54+00:00",
+    "main_topic": "Installer issue with Joplin",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Installer fails with 'Joplin cannot be closed'",
+      "User must manually quit Joplin to proceed with installation"
+    ],
+    "feature_requests": [
+      "Installer should be able to close Joplin automatically"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing an issue where the Joplin installer fails to proceed due to the application not being closed. A manual workaround is available, but users expect the installer to handle this automatically. This issue appears to be significant enough to warrant attention.",
+    "tags": [
+      "installer",
+      "bug",
+      "desktop",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3128046053",
+    "url": "https://github.com/laurent22/joplin/issues/12410",
+    "title": "The cut-paste and the copy-paste of an attachment is failing through the contextual menu",
+    "author": "fanofjop",
+    "created_at": "2025-06-08T07:42:57+00:00",
+    "main_topic": "Attachment copy-paste failure",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Cut-paste and copy-paste of attachments failing",
+      "Data loss risk with cut-paste",
+      "Different behavior between keyboard and contextual menu actions",
+      "Difficulty in finding attachments after cut-paste"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing issues with the cut-paste and copy-paste functionality for attachments in the Joplin app, particularly when using the Rich Text Editor. The inconsistency between keyboard shortcuts and contextual menu actions is causing frustration, especially with the risk of data loss.",
+    "tags": [
+      "bug",
+      "attachment",
+      "rich_text_editor",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "thread_id": "3124866986",
+    "url": "https://github.com/laurent22/joplin/issues/12401",
+    "title": "Copying text from markdown preview includes theme background color",
+    "author": "bwat47",
+    "created_at": "2025-06-06T13:57:27+00:00",
+    "main_topic": "Copying text from markdown preview includes theme background color",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Pasted text includes unwanted background color from Joplin theme",
+      "Loss of text formatting when using 'paste without formatting'",
+      "Inconsistent behavior between markdown preview and rich text editor"
+    ],
+    "feature_requests": [
+      "Option to copy without theme styling",
+      "Semantic text formatting copy similar to Typora's feature"
+    ],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with copying text from the markdown preview in Joplin, where the background color from the theme is included in the pasted text. They suggest that it would be beneficial to have an option to copy text without any theme styling, similar to features in other applications.",
+    "tags": [
+      "ui",
+      "markdown",
+      "feature_request",
+      "copy_paste"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45212",
+    "url": "https://discourse.joplinapp.org/t/sync-it-takes-two-days-by-now/45212",
+    "title": "Sync it takes two days by now",
+    "author": "mrjo118",
+    "created_at": "2025-05-04T12:45:24.306Z",
+    "main_topic": "Sync issues on Joplin app",
+    "sentiment": "negative",
+    "category": "support",
+    "pain_points": [
+      "Sync process taking an excessively long time (up to a week)",
+      "Inability to see all notes and resources after sync",
+      "Confusion over sync settings and status",
+      "Frequent re-sync attempts without resolution",
+      "User frustration with app performance"
+    ],
+    "feature_requests": [
+      "Improved sync speed",
+      "Better visibility of sync status and progress",
+      "More intuitive sync settings"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant delays in the sync process of the Joplin app, with some waiting over a week without resolution. Many users express frustration over not being able to see all their notes and resources, leading to confusion about the app's functionality. The thread highlights a need for improved sync performance and clearer user guidance.",
+    "tags": [
+      "mobile",
+      "sync",
+      "performance",
+      "support"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45248",
+    "url": "https://discourse.joplinapp.org/t/bug-github-drag-and-drop-url-issue-after-upgrading-to-joplin-3-3-9-md-link-format-changed/45248",
+    "title": "BUG => GITHUB - Drag-and-Drop URL Issue After Upgrading to Joplin 3.3.9 (MD Link Format Changed)",
+    "author": "Steph",
+    "created_at": "2025-05-06T09:50:25.532Z",
+    "main_topic": "Drag-and-Drop URL Issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Drag-and-drop from browsers to Joplin not working",
+      "Raw URL pasted instead of formatted Markdown link",
+      "No error messages or feedback when dragging and dropping"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with the drag-and-drop functionality for URLs after upgrading to Joplin 3.3.9. The expected behavior of automatically formatting links in Markdown is not occurring, leading to frustration among users who rely on this feature.",
+    "tags": [
+      "bug",
+      "drag-and-drop",
+      "markdown",
+      "browser-compatibility"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45654",
+    "url": "https://discourse.joplinapp.org/t/joplin-server/45654",
+    "title": "Joplin Server?",
+    "author": "isdnfan",
+    "created_at": "2025-05-31T19:32:55.423Z",
+    "main_topic": "Joplin Server Usage and Documentation",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Minimal documentation on Joplin Server",
+      "Difficulty in finding installation guides",
+      "Perception of low user adoption",
+      "Complexity for non-technical users",
+      "Lack of SSO integration"
+    ],
+    "feature_requests": [
+      "Improved documentation for Joplin Server",
+      "Better visibility of Joplin Server as a solution",
+      "Support for modern OpenIdConnect"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "Users discuss the differences between Joplin Cloud and Joplin Server, expressing concerns about the low adoption of Joplin Server due to minimal documentation and technical setup challenges. Some users report positive experiences with the server, while others highlight the need for better features and support.",
+    "tags": [
+      "server",
+      "documentation",
+      "setup",
+      "user_experience",
+      "features"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45737",
+    "url": "https://discourse.joplinapp.org/t/synchronisation-disbaled/45737",
+    "title": "Synchronisation disbaled",
+    "author": "DirkE",
+    "created_at": "2025-06-05T12:25:22.637Z",
+    "main_topic": "Synchronization disabled",
+    "sentiment": "positive",
+    "category": "support",
+    "pain_points": [
+      "Fields in the Synchronization tab are unresponsive",
+      "Keyboard does not pop up when trying to enter information",
+      "Issue persists even after reinstalling the app and clearing cache",
+      "Bluetooth keyboard does not resolve the issue",
+      "Fields are disabled on Lenovo devices"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing issues with unresponsive fields in the Synchronization tab of the Joplin app, particularly on Lenovo devices. After troubleshooting, one user found a workaround by adjusting settings, leading to a positive resolution of the issue.",
+    "tags": [
+      "mobile",
+      "sync",
+      "bug",
+      "Lenovo",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45679",
+    "url": "https://discourse.joplinapp.org/t/new-to-joplin-using-journal-plugin-on-android/45679",
+    "title": "New to Joplin, using Journal plugin on Android",
+    "author": "matti",
+    "created_at": "2025-06-02T09:46:00.312Z",
+    "main_topic": "Joplin Journal plugin on Android",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Difficulty in accessing today's Journal note on mobile",
+      "Limited menu options when viewing all notes",
+      "Inconsistency between mobile and desktop versions"
+    ],
+    "feature_requests": [
+      "Easier access to today's note from the main menu",
+      "Ability to select today's note as a target when sharing content from other apps",
+      "Panel for quick access to commands in notebook view"
+    ],
+    "priority": "medium",
+    "user_type": "new_user",
+    "summary": "Users are discussing the limitations of the Journal plugin on the Android version of Joplin, particularly regarding the accessibility of today's note. There is a request for improved features to enhance usability on mobile devices, highlighting inconsistencies with the desktop version.",
+    "tags": [
+      "mobile",
+      "plugin",
+      "ui",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45747",
+    "url": "https://discourse.joplinapp.org/t/impossible-to-create-horizontal-rule-or-block-quote-via-keyboard-shortcuts-in-rich-text-editor/45747",
+    "title": "Impossible to create horizontal rule or block quote via keyboard shortcuts in rich text editor?",
+    "author": "bwat47",
+    "created_at": "2025-06-05T21:06:16.567Z",
+    "main_topic": "Keyboard shortcuts for rich text editor",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Horizontal rule and block quote buttons are buried in the overflow menu",
+      "Lack of keyboard shortcuts for essential tools",
+      "Toolbar takes up too much space on smaller screens",
+      "Inconsistent behavior of horizontal rule creation"
+    ],
+    "feature_requests": [
+      "Keyboard shortcuts for all tools in the RTE toolbar",
+      "Option for a vertical toolbar with multiple columns",
+      "Floating menu for toolbar buttons with a time delay"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users express frustration over the inability to create horizontal rules and block quotes using keyboard shortcuts in the Joplin rich text editor. They request additional features to improve toolbar accessibility and functionality.",
+    "tags": [
+      "ui",
+      "feature_request",
+      "editor",
+      "shortcuts"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45753",
+    "url": "https://discourse.joplinapp.org/t/emoji-plugin-still-working-joplin-3-4-1/45753",
+    "title": "EMOJI plugin : still working ? (JOPLIN 3.4.1)",
+    "author": "laurent",
+    "created_at": "2025-06-06T09:00:59.197Z",
+    "main_topic": "Emoji plugin functionality concerns",
+    "sentiment": "negative",
+    "category": "discussion",
+    "pain_points": [
+      "Plugin no longer works with newer Joplin versions",
+      "Lack of communication from plugin developers",
+      "Difficulty in tracking plugin compatibility",
+      "Closed forum topics without answers",
+      "Users feeling abandoned by plugin support"
+    ],
+    "feature_requests": [
+      "Indicate when a plugin is no longer working with specific Joplin versions",
+      "Create a system for users to flag non-working plugins",
+      "Encourage new developers to improve or maintain existing plugins"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users express frustration over the non-functionality of the Emoji plugin in Joplin and the lack of support from developers. There are calls for better communication regarding plugin compatibility and suggestions for a system to manage plugin status.",
+    "tags": [
+      "plugin",
+      "compatibility",
+      "support",
+      "user_feedback"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45723",
+    "url": "https://discourse.joplinapp.org/t/issue-with-codeblocks/45723",
+    "title": "Issue with Codeblocks",
+    "author": "Pro_Moriarty",
+    "created_at": "2025-06-04T17:02:27.367Z",
+    "main_topic": "Issue with Codeblocks in Tables",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Code blocks in tables cause display issues",
+      "Line breaks in code blocks lead to skewed output",
+      "Markdown limitations with code blocks in tables"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are experiencing a bug where code blocks within tables do not render correctly, especially when line breaks are present. This issue is acknowledged as a limitation of Markdown standards, causing frustration among users who rely on code blocks for their notes.",
+    "tags": [
+      "bug",
+      "markdown",
+      "codeblock",
+      "table",
+      "editor"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45158",
+    "url": "https://discourse.joplinapp.org/t/bug-github-right-click-open-doesnt-work-on-a-link-linux-and-windows/45158",
+    "title": "BUG => GITHUB - Right click > open, doesn't work on a link (linux and windows)",
+    "author": "personalizedrefriger",
+    "created_at": "2025-05-02T05:45:49.704Z",
+    "main_topic": "Right click open link issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Right click 'Open' option on links does not work",
+      "Error in developer console when attempting to open links",
+      "Missing 'Open' command in the context menu in the latest version",
+      "Previous functionality of opening links has been removed"
+    ],
+    "feature_requests": [
+      "Restore the 'Open' command for links in the context menu",
+      "Fix the underlying issue causing the 'Open' command to fail"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing a bug where the right-click 'Open' option for links in the Joplin app is non-functional, leading to frustration. The issue persists in the latest version, and users are requesting the restoration of this feature.",
+    "tags": [
+      "bug",
+      "context_menu",
+      "desktop",
+      "link_handling"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45676",
+    "url": "https://discourse.joplinapp.org/t/syn-problem-mit-android/45676",
+    "title": "Syn. Problem mit Android",
+    "author": "Achim23",
+    "created_at": "2025-06-02T04:58:09.496Z",
+    "main_topic": "Sync issues with kDrive on Android",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Notebooks not syncing from kDrive on Android",
+      "Restricted access to internal storage on newer Android versions",
+      "Frustration with the sync process taking a whole day without success"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing issues with syncing notebooks from kDrive on the Android version of Joplin, despite successful synchronization on the desktop. The problem seems to stem from the app's inability to sync notebooks on mobile, leading to user frustration.",
+    "tags": [
+      "mobile",
+      "sync",
+      "kDrive",
+      "WebDAV",
+      "Android"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45792",
+    "url": "https://discourse.joplinapp.org/t/yesyoukan-rendering-on-one-desktop-but-not-the-other/45792",
+    "title": "YesYouKan rendering on one desktop, but not the other",
+    "author": "t0dd",
+    "created_at": "2025-06-08T18:12:02.825Z",
+    "main_topic": "YesYouKan rendering issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inconsistent rendering of YesYouKan notes on different machines",
+      "Lack of intuitive UI for activating plugins"
+    ],
+    "feature_requests": [
+      "Highlight button when an editor plugin is active"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing inconsistent rendering of YesYouKan notes across different desktop machines, leading to confusion. There is a suggestion for improving UI intuitiveness to help users identify active plugins more easily.",
+    "tags": [
+      "ui",
+      "sync",
+      "desktop",
+      "plugin"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45767",
+    "url": "https://discourse.joplinapp.org/t/joplin-on-android-was-so-slow-it-was-unusable-until-laat-week/45767",
+    "title": "Joplin on Android was so Slow it was Unusable, Until Laat Week?",
+    "author": "Steph",
+    "created_at": "2025-06-07T00:54:28.813Z",
+    "main_topic": "Performance issues on Android",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Slow performance",
+      "Long sync times"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing significant performance issues with the Joplin app on Android, particularly related to slow speeds and prolonged sync times. The feedback indicates that these problems are affecting multiple users, leading to frustration.",
+    "tags": [
+      "mobile",
+      "sync",
+      "performance"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45773",
+    "url": "https://discourse.joplinapp.org/t/syncing-from-iphone-to-local-joplin-server/45773",
+    "title": "Syncing from iphone to local Joplin Server?",
+    "author": "whi4",
+    "created_at": "2025-06-07T11:37:20.503Z",
+    "main_topic": "Syncing from iPhone to local Joplin Server",
+    "sentiment": "negative",
+    "category": "support",
+    "pain_points": [
+      "Network Error during synchronization",
+      "Issues with setting up HTTPS for local network address"
+    ],
+    "feature_requests": [
+      "Guidance on setting up HTTPS for local network"
+    ],
+    "priority": "high",
+    "user_type": "new_user",
+    "summary": "Users are experiencing synchronization issues between their iPhone and local Joplin Server, particularly related to network errors and HTTPS setup. The discussion highlights the need for clearer instructions on configuring HTTPS for local addresses.",
+    "tags": [
+      "mobile",
+      "sync",
+      "support",
+      "network"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45349",
+    "url": "https://discourse.joplinapp.org/t/bug-github-cut-paste-and-copy-paste-of-an-attachment-are-failing-through-the-contextual-menu/45349",
+    "title": "BUG => GITHUB - cut/paste and copy/paste of an attachment are failing through the contextual menu",
+    "author": "Steph",
+    "created_at": "2025-05-11T18:05:13.785Z",
+    "main_topic": "Attachment cut/paste issues",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Cut/paste and copy/paste of attachments failing through contextual menu",
+      "Inconsistent behavior between keyboard shortcuts and context menu"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are experiencing issues with the cut/paste and copy/paste functionality for attachments in the Joplin app, particularly through the contextual menu. There is a notable inconsistency between using keyboard shortcuts and the context menu, leading to frustration among users.",
+    "tags": [
+      "bug",
+      "attachments",
+      "ui",
+      "context_menu"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45460",
+    "url": "https://discourse.joplinapp.org/t/windows-arm64-support/45460",
+    "title": "Windows ARM64 support",
+    "author": "grevios",
+    "created_at": "2025-05-18T09:30:22.856Z",
+    "main_topic": "Windows ARM64 support",
+    "sentiment": "neutral",
+    "category": "question",
+    "pain_points": [
+      "Lack of native installer for Windows ARM64"
+    ],
+    "feature_requests": [
+      "Native installer for Windows ARM64"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are inquiring about the availability of a native installer for the Joplin app on Windows ARM64. Currently, it seems the only option is to build from source, which may not be feasible for all users.",
+    "tags": [
+      "windows",
+      "arm64",
+      "installer",
+      "native"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45803",
+    "url": "https://discourse.joplinapp.org/t/priority-cloud-support/45803",
+    "title": "Priority cloud support",
+    "author": "user11",
+    "created_at": "2025-06-09T13:01:55.639Z",
+    "main_topic": "Priority cloud support",
+    "sentiment": "neutral",
+    "category": "support",
+    "pain_points": [
+      "Not receiving confirmation email from support",
+      "Data duplication during sync",
+      "Missing notebooks not syncing"
+    ],
+    "feature_requests": [
+      "Improved support response time",
+      "Better synchronization options"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are experiencing issues with cloud support and data synchronization in Joplin. They are seeking assistance and clarification on how to effectively reach support, while also reporting problems with data duplication and missing notebooks. One user found a solution that worked for them.",
+    "tags": [
+      "sync",
+      "support",
+      "cloud",
+      "data"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45717",
+    "url": "https://discourse.joplinapp.org/t/ok-now-templates-plugin-need-some-guidance-using-custom-variables/45717",
+    "title": "OK NOW (TEMPLATES plugin - Need some guidance using custom variables)",
+    "author": "Steph",
+    "created_at": "2025-06-04T16:00:44.061Z",
+    "main_topic": "Templates plugin guidance",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [
+      "Strange behavior after using '---' in templates",
+      "Issues with text size in Markdown Editor",
+      "Confusion between Rich Text Editor (RTE) and Markdown Viewer (MDV)"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "The user discusses their experience with the Templates plugin, highlighting issues with formatting and behavior when using Markdown. They provide insights on avoiding certain features and express that no further help is needed.",
+    "tags": [
+      "templates",
+      "markdown",
+      "editor",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45790",
+    "url": "https://discourse.joplinapp.org/t/default-spacing-between-paragraphs/45790",
+    "title": "Default Spacing Between Paragraphs",
+    "author": "Steph",
+    "created_at": "2025-06-08T15:06:16.970Z",
+    "main_topic": "Default Spacing Between Paragraphs",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Unwanted double spacing between paragraphs",
+      "Inconvenience of using [SHIFT] [ENTER] for single line breaks"
+    ],
+    "feature_requests": [
+      "Option to adjust paragraph spacing"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are expressing frustration over the default double spacing between paragraphs in the Joplin app. They are requesting an option to customize this spacing to improve their note-taking experience.",
+    "tags": [
+      "ui",
+      "editor",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45353",
+    "url": "https://discourse.joplinapp.org/t/bug-inserting-multiple-attachments-at-one-time-puts-them-on-the-same-line/45353",
+    "title": "BUG ? - Inserting multiple attachments at one time puts them on the same line",
+    "author": "Steph",
+    "created_at": "2025-05-11T20:54:43.158Z",
+    "main_topic": "Attachment insertion issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inserting multiple attachments places them on the same line"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are experiencing a bug where multiple attachments inserted at once are displayed on the same line. This issue has been confirmed by at least one other user, indicating it may affect multiple users.",
+    "tags": [
+      "attachments",
+      "bug",
+      "ui"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45350",
+    "url": "https://discourse.joplinapp.org/t/bug-its-not-possible-to-change-the-color-of-the-whole-name-of-an-attachment/45350",
+    "title": "BUG ? - It's not possible to change the color of the whole name of an attachment",
+    "author": "Steph",
+    "created_at": "2025-05-11T18:17:49.379Z",
+    "main_topic": "Attachment color change issue",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Inability to change the color of the whole name of an attachment",
+      "Functionality only works when selecting with mouse, not with double click"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are experiencing issues with changing the color of attachment names in the Joplin app. The functionality works when selecting with the mouse but fails when double-clicking, leading to frustration.",
+    "tags": [
+      "ui",
+      "bug",
+      "attachments"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45347",
+    "url": "https://discourse.joplinapp.org/t/bug-lists-the-copy-of-checkboxes-is-pasted-like-bullets/45347",
+    "title": "BUG ? - Lists : the copy of checkboxes is pasted like bullets",
+    "author": "Steph",
+    "created_at": "2025-05-11T17:40:02.605Z",
+    "main_topic": "Checkboxes pasted as bullets",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Checkboxes are pasted incorrectly as bullets",
+      "No changes in the latest version"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are experiencing an issue where checkboxes are pasted as bullet points in the Joplin app. One user notes that there have been no changes in the latest version, indicating potential frustration with the bug persisting.",
+    "tags": [
+      "ui",
+      "bug",
+      "version_3.4.1"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45746",
+    "url": "https://discourse.joplinapp.org/t/joplin-on-android-hangs-up-when-attempting-to-take-a-photo/45746",
+    "title": "Joplin on Android hangs up when attempting to take a photo",
+    "author": "MarkS",
+    "created_at": "2025-06-05T20:23:11.819Z",
+    "main_topic": "Camera feature issue on Android",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "App hangs when attempting to take a photo",
+      "F-Droid version lacks camera feature"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are experiencing issues with the Joplin app hanging when trying to take a photo. There is confusion regarding the availability of the camera feature in different versions of the app.",
+    "tags": [
+      "mobile",
+      "bug",
+      "camera",
+      "performance"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45739",
+    "url": "https://discourse.joplinapp.org/t/do-you-use-a-joplin-under-linux-appimage-with-the-database-in-an-external-drive/45739",
+    "title": "Do you use a JOPLIN under Linux (appimage) with the database in an external drive?",
+    "author": "Steph",
+    "created_at": "2025-06-05T13:49:17.923Z",
+    "main_topic": "Using Joplin on Linux with external database",
+    "sentiment": "neutral",
+    "category": "discussion",
+    "pain_points": [],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "Users are discussing their experiences using Joplin on Linux with the database stored on an external drive. There are no specific pain points or feature requests mentioned, indicating a general exchange of information rather than frustration.",
+    "tags": [
+      "linux",
+      "external_drive",
+      "database",
+      "discussion"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45726",
+    "url": "https://discourse.joplinapp.org/t/edu-discount-on-upgrade/45726",
+    "title": "EDU discount on upgrade",
+    "author": "laurent",
+    "created_at": "2025-06-04T21:33:40.165Z",
+    "main_topic": "EDU discount on upgrade",
+    "sentiment": "neutral",
+    "category": "support",
+    "pain_points": [],
+    "feature_requests": [],
+    "priority": "low",
+    "user_type": "general",
+    "summary": "The user has responded to an inquiry regarding an educational discount for upgrading the Joplin app. There are no specific pain points or feature requests mentioned in the thread.",
+    "tags": [
+      "support",
+      "discount",
+      "upgrade"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45804",
+    "url": "https://discourse.joplinapp.org/t/syncing-101/45804",
+    "title": "Syncing 101",
+    "author": "magiceyeballs",
+    "created_at": "2025-06-09T13:31:08.486Z",
+    "main_topic": "Syncing issues in Joplin",
+    "sentiment": "negative",
+    "category": "discussion",
+    "pain_points": [
+      "Frequent sync failures",
+      "Data loss during sync",
+      "Slow sync times",
+      "Confusion over sync settings"
+    ],
+    "feature_requests": [
+      "Improved sync reliability",
+      "Detailed sync logs for troubleshooting",
+      "User-friendly sync settings interface"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are experiencing significant issues with syncing in the Joplin app, leading to frustration and data loss. Many users are seeking improvements in sync reliability and clarity in settings.",
+    "tags": [
+      "sync",
+      "data loss",
+      "reliability",
+      "settings"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45798",
+    "url": "https://discourse.joplinapp.org/t/note-overview-list-view-font-size/45798",
+    "title": "Note Overview - List View - Font Size",
+    "author": "Kai",
+    "created_at": "2025-06-09T09:06:11.087Z",
+    "main_topic": "Font Size in List View",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Font size is too small for readability",
+      "Difficulty in adjusting font size",
+      "Inconsistent font size across devices"
+    ],
+    "feature_requests": [
+      "Option to customize font size",
+      "Increase default font size",
+      "Sync font size settings across devices"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users are expressing frustration over the small font size in the list view of the Joplin app, which affects readability. Many users are requesting the ability to customize font size to improve their experience.",
+    "tags": [
+      "ui",
+      "accessibility",
+      "font_size",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45785",
+    "url": "https://discourse.joplinapp.org/t/evernote-link-replacement/45785",
+    "title": "Evernote Link Replacement",
+    "author": "bmwr1200c",
+    "created_at": "2025-06-08T08:36:10.999Z",
+    "main_topic": "Evernote Link Replacement",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Inability to import Evernote links",
+      "Loss of existing notes with links",
+      "Difficulty in transitioning from Evernote"
+    ],
+    "feature_requests": [
+      "Support for importing Evernote links",
+      "Improved migration tools for Evernote users"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "Users are expressing frustration over the lack of support for importing links from Evernote, which is causing issues during their transition to Joplin. Many users rely on these links for their note organization and are seeking better migration tools.",
+    "tags": [
+      "migration",
+      "import",
+      "linking",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45712",
+    "url": "https://discourse.joplinapp.org/t/error-importing-notes-from-format-enex/45712",
+    "title": "Error importing notes from format: enex",
+    "author": "Steph",
+    "created_at": "2025-06-04T11:04:26.550Z",
+    "main_topic": "Error importing notes from ENEX format",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Error during import process",
+      "Imported items do not open when clicked"
+    ],
+    "feature_requests": [],
+    "priority": "high",
+    "user_type": "new_user",
+    "summary": "Users are experiencing errors when importing notes from the ENEX format into Joplin, leading to frustration. There are indications that this issue may affect multiple users, as similar problems have been reported in the forum.",
+    "tags": [
+      "import",
+      "enex",
+      "bug",
+      "notes"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45388",
+    "url": "https://discourse.joplinapp.org/t/multiple-instances-and-icon-in-windows-taskbar/45388",
+    "title": "Multiple instances and icon in windows taskbar",
+    "author": "Steph",
+    "created_at": "2025-05-13T15:05:30.701Z",
+    "main_topic": "Taskbar Icon Distinction for Joplin Instances",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Identical icons in the Windows taskbar for multiple Joplin instances",
+      "No thumbnails appear on hover in the taskbar",
+      "Difficulty distinguishing between work and personal instances"
+    ],
+    "feature_requests": [
+      "Ability to change icon colors for different instances",
+      "Customizable taskbar icons for each instance"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are facing challenges distinguishing between multiple Joplin instances due to identical taskbar icons, leading to frustration. They are requesting features to customize icons for better clarity.",
+    "tags": [
+      "ui",
+      "taskbar",
+      "customization",
+      "windows"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "44310",
+    "url": "https://discourse.joplinapp.org/t/ipad-rich-text-editor-planned/44310",
+    "title": "iPad: Rich text editor planned?",
+    "author": "againman",
+    "created_at": "2025-03-10T07:43:55.686Z",
+    "main_topic": "Rich text editor on iPad",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Editing notes with embedded pictures is cumbersome due to markdown code visibility",
+      "Switching between edit and view modes disrupts layout",
+      "Current markdown editor is not user-friendly for non-technical users"
+    ],
+    "feature_requests": [
+      "Implementation of a WYSIWYG editor on iPad",
+      "Improved handling of images in notes"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "Users are expressing frustration over the lack of a WYSIWYG editor on iPad, which complicates editing notes with images. The current markdown format is difficult to navigate, especially for non-technical users, leading to a strong request for this feature.",
+    "tags": [
+      "mobile",
+      "ui",
+      "feature_request",
+      "usability"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "43686",
+    "url": "https://discourse.joplinapp.org/t/notebook-list-sort-order-alphabetically-certainly-not-by-ascii-code/43686",
+    "title": "Notebook List Sort Order - Alphabetically (certainly not by ASCII code)",
+    "author": "Steph",
+    "created_at": "2025-02-08T05:22:35.274Z",
+    "main_topic": "Notebook List Sort Order",
+    "sentiment": "negative",
+    "category": "discussion",
+    "pain_points": [
+      "Inability to control notebook list order effectively",
+      "Sorting scheme not clearly defined",
+      "Special characters sorting unexpectedly",
+      "Lack of options for manual sorting"
+    ],
+    "feature_requests": [
+      "Ability to sort notebooks alphabetically with special character handling",
+      "Options for manual sorting of notebooks"
+    ],
+    "priority": "high",
+    "user_type": "general",
+    "summary": "Users express frustration over the lack of control in sorting notebook lists in the Joplin app. They highlight issues with the current sorting scheme, particularly regarding special characters, and request more intuitive sorting options.",
+    "tags": [
+      "sorting",
+      "user_experience",
+      "feature_request",
+      "notebooks"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45708",
+    "url": "https://discourse.joplinapp.org/t/any-chance-to-get-webclipper-for-opera-brave-or-other-browsers/45708",
+    "title": "Any chance to get webclipper for Opera, Brave or other browsers?",
+    "author": "jlgarnier",
+    "created_at": "2025-06-04T09:41:05.897Z",
+    "main_topic": "Webclipper availability for browsers",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Issues with Firefox",
+      "Uncertainty about webclipper compatibility"
+    ],
+    "feature_requests": [
+      "Webclipper for Opera",
+      "Webclipper for Brave"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are discussing the availability of the Joplin webclipper for browsers other than Firefox, particularly Opera and Brave. There is a positive sentiment as some users confirm that the webclipper works well with Brave, leading to a potential switch from Firefox.",
+    "tags": [
+      "webclipper",
+      "browser compatibility",
+      "user experience",
+      "security",
+      "privacy"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45585",
+    "url": "https://discourse.joplinapp.org/t/plugin-favorites-a-button-or-a-shortcut-in-order-to-toggle-the-column/45585",
+    "title": "Plugin Favorites : a button or a shortcut in order to toggle the column?",
+    "author": "Steph",
+    "created_at": "2025-05-27T11:12:29.254Z",
+    "main_topic": "Plugin Favorites toggle functionality",
+    "sentiment": "positive",
+    "category": "discussion",
+    "pain_points": [
+      "Lack of a button to toggle the favorites panel",
+      "Arbitrary modification of the width of the column"
+    ],
+    "feature_requests": [
+      "Button or shortcut to toggle the favorites panel"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "Users are discussing the functionality of the Favorites plugin in Joplin, specifically the need for a button or shortcut to toggle the favorites panel. One user found a workaround by moving the column and creating a shortcut, leading to a positive resolution of their issues.",
+    "tags": [
+      "ui",
+      "plugin",
+      "favorites",
+      "shortcuts"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45079",
+    "url": "https://discourse.joplinapp.org/t/bug-writing-text-after-a-link-is-at-first-not-part-of-the-link-and-later-is-part-of-the-link/45079",
+    "title": "BUG ? - Writing text after a link is at first NOT part of the link and later IS part of the link",
+    "author": "Steph",
+    "created_at": "2025-04-27T11:42:33.651Z",
+    "main_topic": "Link behavior in text editing",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Text written after a link later becomes part of the link",
+      "Unexpected behavior when editing text after a link"
+    ],
+    "feature_requests": [],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing unexpected behavior when writing text after a link in Joplin. Initially, text written immediately after a link is not part of it, but text added later becomes part of the link, which is causing confusion and frustration.",
+    "tags": [
+      "desktop",
+      "ui",
+      "bug"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45745",
+    "url": "https://discourse.joplinapp.org/t/hi-can-joplin-add-a-feature-that-can-store-data-locally-and-sync-to-remote-at-the-same-time/45745",
+    "title": "Hi, can Joplin add a feature that can store data locally and sync to remote at the same time?",
+    "author": "Wimvan",
+    "created_at": "2025-06-05T18:15:19.510Z",
+    "main_topic": "Local storage and remote sync feature",
+    "sentiment": "neutral",
+    "category": "feature_request",
+    "pain_points": [
+      "Cannot choose to save data locally and sync to remote at the same time"
+    ],
+    "feature_requests": [
+      "Add a feature to store data locally while syncing to remote"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are requesting a feature in Joplin that allows them to save data locally while also syncing to a remote server. One user expresses confusion about the existing sync functionality, indicating a lack of technical understanding.",
+    "tags": [
+      "sync",
+      "local_storage",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45511",
+    "url": "https://discourse.joplinapp.org/t/embed-images-as-base64-when-copying-text-images-to-clipboard/45511",
+    "title": "Embed images as base64 when copying text + images to clipboard",
+    "author": "bwat47",
+    "created_at": "2025-05-21T17:36:50.812Z",
+    "main_topic": "Image embedding in clipboard copy",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Images referenced as local file paths do not work in some applications",
+      "Markdown preview images do not paste properly",
+      "Incompatibility with web-based applications like Outlook and Gmail"
+    ],
+    "feature_requests": [
+      "Embed images as base64 when copying text and images to clipboard"
+    ],
+    "priority": "high",
+    "user_type": "desktop_user",
+    "summary": "Users are experiencing issues with copying images from Joplin to external applications, where images are either not displayed or broken. They request the enhancement of embedding images as base64 to improve compatibility across various platforms.",
+    "tags": [
+      "clipboard",
+      "image",
+      "feature_request",
+      "compatibility"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45642",
+    "url": "https://discourse.joplinapp.org/t/backup-plugin-backup-profiles-jons-backup-one-notebook-separately-from-others/45642",
+    "title": "BACKUP Plugin | Backup profiles.jons & Backup one notebook separately from others",
+    "author": "Steph",
+    "created_at": "2025-05-30T13:51:15.645Z",
+    "main_topic": "Backup Plugin Enhancements",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "profiles.json file corruption after updates",
+      "lack of incremental or differential backup options",
+      "difficulty in managing backups with many notebooks"
+    ],
+    "feature_requests": [
+      "backup profiles.json file",
+      "option to backup all notebooks except a specific one",
+      "ability to choose which notebooks to backup separately"
+    ],
+    "priority": "high",
+    "user_type": "power_user",
+    "summary": "The user expresses frustration over the corruption of the profiles.json file after updates and the limitations of the current backup plugin. They request enhancements to allow for more flexible backup options, particularly for daily work notebooks.",
+    "tags": [
+      "backup",
+      "profiles",
+      "feature_request",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45714",
+    "url": "https://discourse.joplinapp.org/t/create-a-new-compact-mode-for-ios-because-after-synching-joplin-leaves-no-space-for-folders/45714",
+    "title": "Create a new compact mode for iOS because after synching Joplin leaves no space for folders",
+    "author": "mborus",
+    "created_at": "2025-06-04T11:38:11.056Z",
+    "main_topic": "Compact mode for iOS",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Syncing message takes up too much space",
+      "Limited visibility of folders and notes",
+      "Need to sync again to collapse syncing message"
+    ],
+    "feature_requests": [
+      "Create a compact setting for the interface",
+      "Display icons without text in compact mode",
+      "Show syncing status with a number and animation"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "The user is experiencing frustration with the Joplin app on their iPhone 12 Mini, as the syncing message occupies too much screen space, limiting visibility of folders and notes. They request a compact mode to improve usability and streamline the interface.",
+    "tags": [
+      "mobile",
+      "sync",
+      "ui",
+      "usability"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45575",
+    "url": "https://discourse.joplinapp.org/t/jump-to-note-in-list-after-adding-title/45575",
+    "title": "Jump to note in list after adding title",
+    "author": "Steph",
+    "created_at": "2025-05-26T13:50:45.301Z",
+    "main_topic": "Jump to note in list after adding title",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Focus does not follow newly re-titled note",
+      "User has to manually adjust focus after changing note title"
+    ],
+    "feature_requests": [
+      "Automatic focus on the newly re-titled note in the list"
+    ],
+    "priority": "high",
+    "user_type": "new_user",
+    "summary": "Users are experiencing frustration with the Joplin app as the focus does not automatically shift to the newly re-titled note in the list. They are requesting a feature that would allow this functionality to happen automatically, similar to their previous experience with Evernote.",
+    "tags": [
+      "ui",
+      "feature_request",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45551",
+    "url": "https://discourse.joplinapp.org/t/joplin-android-vim-mode/45551",
+    "title": "Joplin Android VIM mode",
+    "author": "Charli",
+    "created_at": "2025-05-24T17:21:10.017Z",
+    "main_topic": "Joplin Android VIM mode",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [],
+    "feature_requests": [
+      "VIM mode for Joplin on Android"
+    ],
+    "priority": "medium",
+    "user_type": "mobile_user",
+    "summary": "The user expresses a strong preference for a VIM mode in the Joplin Android app, indicating that it is a crucial feature for their usage. They acknowledge the limitations of touch keyboards but highlight the use of a Bluetooth keyboard as a workaround.",
+    "tags": [
+      "mobile",
+      "feature_request",
+      "vim"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45524",
+    "url": "https://discourse.joplinapp.org/t/make-export-note-to-html-available-in-keyboard-hotkeys-command-palette/45524",
+    "title": "Make export note to HTML available in keyboard hotkeys/command palette",
+    "author": "bwat47",
+    "created_at": "2025-05-22T20:32:59.926Z",
+    "main_topic": "Export note to HTML feature request",
+    "sentiment": "neutral",
+    "category": "feature_request",
+    "pain_points": [
+      "Current export options limited to PDF",
+      "Lack of keyboard hotkey for HTML export"
+    ],
+    "feature_requests": [
+      "Add option to export notes to HTML in command palette",
+      "Enable keyboard hotkey for exporting to HTML"
+    ],
+    "priority": "medium",
+    "user_type": "power_user",
+    "summary": "The user expresses a desire for the Joplin app to include an option for exporting notes to HTML via keyboard hotkeys and the command palette, similar to the existing PDF export feature. This request highlights a limitation in the current export functionality.",
+    "tags": [
+      "export",
+      "html",
+      "keyboard_shortcuts",
+      "command_palette"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45499",
+    "url": "https://discourse.joplinapp.org/t/i-want-to-edit-the-photos-i-added-android/45499",
+    "title": "I Want To Edit The Photos I Added(Android)",
+    "author": "Pisi",
+    "created_at": "2025-05-20T19:55:38.691Z",
+    "main_topic": "Editing Photos in Joplin",
+    "sentiment": "negative",
+    "category": "feature_request",
+    "pain_points": [
+      "Unable to edit photos after taking them",
+      "Lack of photo editing functionality within the app"
+    ],
+    "feature_requests": [
+      "Ability to edit photos before adding them to notes"
+    ],
+    "priority": "high",
+    "user_type": "mobile_user",
+    "summary": "The user is frustrated by the inability to edit photos taken within the Joplin app before adding them to notes. They are seeking clarification on whether this feature exists or if it can be implemented.",
+    "tags": [
+      "mobile",
+      "photo_editing",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45793",
+    "url": "https://discourse.joplinapp.org/t/new-delete-line-function-in-the-toolbar-of-the-iphone-android-apps/45793",
+    "title": "New “Delete line” function in the toolbar of the iPhone/Android apps",
+    "author": "paq2",
+    "created_at": "2025-06-08T21:24:06.304Z",
+    "main_topic": "Delete line function request",
+    "sentiment": "neutral",
+    "category": "feature_request",
+    "pain_points": [],
+    "feature_requests": [
+      "Delete line button in the toolbar"
+    ],
+    "priority": "medium",
+    "user_type": "mobile_user",
+    "summary": "A user has requested the addition of a 'Delete line' button in the toolbar of the iPhone/Android apps. They suggest placing it next to the existing buttons for moving parts up and down.",
+    "tags": [
+      "mobile",
+      "ui",
+      "feature_request"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45667",
+    "url": "https://discourse.joplinapp.org/t/sort-direction-mouse-over-text/45667",
+    "title": "Sort direction mouse over text",
+    "author": "kennethmgreen",
+    "created_at": "2025-06-01T17:20:16.663Z",
+    "main_topic": "Sort direction mouse over text",
+    "sentiment": "negative",
+    "category": "bug_report",
+    "pain_points": [
+      "Confusing tooltip text for sort direction",
+      "Inconsistent behavior between sort direction arrow and sort type button",
+      "Ambiguity in the term 'reverse sort order'"
+    ],
+    "feature_requests": [
+      "Change 'Reverse' to 'Flip' for clarity",
+      "Implement consistent tooltip functionality for sort direction"
+    ],
+    "priority": "medium",
+    "user_type": "desktop_user",
+    "summary": "The user reports a confusing tooltip for the sort direction arrow in the Joplin app, which states 'Reverse sort order' regardless of the arrow's direction. They suggest changing the wording for clarity and implementing consistent tooltip behavior to improve UX.",
+    "tags": [
+      "ui",
+      "bug",
+      "user_experience"
+    ]
+  },
+  {
+    "source": "Discourse",
+    "thread_id": "45598",
+    "url": "https://discourse.joplinapp.org/t/image-text-searching/45598",
+    "title": "Image Text Searching",
+    "author": "bwat47",
+    "created_at": "2025-05-27T17:08:46.323Z",
+    "main_topic": "Image Text Searching",
+    "sentiment": "positive",
+    "category": "feature_request",
+    "pain_points": [
+      "Difficulty searching text in screenshots"
+    ],
+    "feature_requests": [
+      "Search functionality for text in images using OCR"
+    ],
+    "priority": "medium",
+    "user_type": "general",
+    "summary": "Users are requesting the ability to search for text within images in the Joplin app. One user mentions that many of their notes are screenshots and expresses a desire for improved search functionality. Another user provides guidance on enabling OCR, indicating that the feature may already exist.",
+    "tags": [
+      "ocr",
+      "search",
+      "screenshots",
+      "feature_request"
+    ]
+  }
+]
