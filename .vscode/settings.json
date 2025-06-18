@@ -1,6 +1,0 @@
-{
-    "python.defaultInterpreterPath": "/Users/hanifcarroll/.local/share/mise/installs/python/3.13.5/bin/python",
-    "debug.javascript.defaultRuntimeExecutable": {
-        "pwa-node": "/Users/hanifcarroll/.local/share/mise/shims/node"
-    }
-}
