@@ -148,18 +148,6 @@ The case study covers:
 - Success metrics and ROI projections
 - Product thinking and insights
 
-## Contributing
-
-This project demonstrates a methodology for user feedback analysis. Contributions welcome for:
-- Additional data sources integration
-- Improved categorization prompts
-- Enhanced visualization techniques
-- Analysis methodology refinements
-
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Contact
 
 Built by [Hanif Carroll](https://hanifcarroll.com) as a product engineering portfolio project demonstrating data-driven product strategy development. 
